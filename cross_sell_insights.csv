@@ -1,0 +1,16 @@
+product,cross_sell_product,similarity_score
+Tablet,Camera,0.85
+Tablet,Charger,0.85
+Tablet,Headphones,0.85
+Charger,Camera,0.85
+Charger,Headphones,0.85
+Charger,Keyboard,0.85
+Power Bank,Camera,0.85
+Power Bank,Charger,0.85
+Power Bank,Headphones,0.85
+Laptop,Camera,0.85
+Laptop,Charger,0.85
+Laptop,Headphones,0.85
+Mouse,Camera,0.85
+Mouse,Charger,0.85
+Mouse,Headphones,0.85
