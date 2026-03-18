@@ -1,0 +1,2001 @@
+customer_id,recency,frequency,monetary,rfm_score,segment,cluster
+C100000,225,1,100684.0,6,At-Risk Customers,2
+C100001,193,1,65983.2,7,At-Risk Customers,2
+C100002,102,1,259411.75,10,Price-Sensitive Shoppers,4
+C100003,160,1,24071.1,5,New Buyers,3
+C100004,173,1,32973.2,6,New Buyers,3
+C100005,145,1,290920.0,9,Price-Sensitive Shoppers,4
+C100006,108,1,41705.25,7,High-Value Loyal Customers,0
+C100007,220,1,108085.0,6,At-Risk Customers,2
+C100008,330,1,160076.25,6,Price-Sensitive Shoppers,4
+C100009,319,1,7219.05,3,New Buyers,3
+C100010,12,1,98083.2,9,Potential Loyalists,1
+C100011,102,1,24672.0,6,Potential Loyalists,1
+C100012,305,1,71536.0,5,At-Risk Customers,2
+C100013,173,1,258043.5,9,Price-Sensitive Shoppers,4
+C100014,347,1,53997.0,4,At-Risk Customers,2
+C100015,242,1,83097.9,6,At-Risk Customers,2
+C100016,108,1,204482.75,10,Price-Sensitive Shoppers,4
+C100017,307,1,76456.0,5,At-Risk Customers,2
+C100018,103,1,69737.6,8,Potential Loyalists,1
+C100019,85,1,574.4,6,Potential Loyalists,1
+C100020,243,1,57534.3,5,At-Risk Customers,2
+C100021,226,1,90638.55,6,At-Risk Customers,2
+C100022,168,1,43549.9,6,New Buyers,3
+C100023,73,1,108157.5,9,High-Value Loyal Customers,0
+C100024,211,1,177272.0,8,Price-Sensitive Shoppers,4
+C100025,95,1,138510.0,9,High-Value Loyal Customers,0
+C100026,42,1,323070.0,11,Price-Sensitive Shoppers,4
+C100027,230,1,208290.0,8,Price-Sensitive Shoppers,4
+C100028,339,1,89492.85,5,At-Risk Customers,2
+C100029,309,1,158752.8,6,Price-Sensitive Shoppers,4
+C100030,218,1,220139.8,8,Price-Sensitive Shoppers,4
+C100031,185,1,15299.2,5,New Buyers,3
+C100032,103,1,51196.0,7,High-Value Loyal Customers,0
+C100033,313,1,216920.0,7,Price-Sensitive Shoppers,4
+C100034,229,1,17656.2,4,New Buyers,3
+C100035,302,1,136454.4,6,At-Risk Customers,2
+C100036,160,1,54396.0,6,Potential Loyalists,1
+C100037,210,1,297418.5,9,Price-Sensitive Shoppers,4
+C100038,40,1,250910.2,11,Price-Sensitive Shoppers,4
+C100039,222,1,167420.0,7,At-Risk Customers,2
+C100040,336,1,109303.2,5,High-Value Loyal Customers,0
+C100041,160,1,49913.6,6,High-Value Loyal Customers,0
+C100042,312,1,156258.0,6,At-Risk Customers,2
+C100043,12,1,56202.0,8,Potential Loyalists,1
+C100044,102,1,326106.0,10,Price-Sensitive Shoppers,4
+C100045,78,1,57936.0,7,Potential Loyalists,1
+C100046,160,1,293743.0,9,Price-Sensitive Shoppers,4
+C100047,331,1,217782.0,7,Price-Sensitive Shoppers,4
+C100048,319,1,49756.25,4,New Buyers,3
+C100049,14,1,50439.0,8,Potential Loyalists,1
+C100050,207,1,30655.25,5,New Buyers,3
+C100051,320,1,135247.5,6,At-Risk Customers,2
+C100052,5,1,60361.2,8,Potential Loyalists,1
+C100053,163,1,127216.8,8,At-Risk Customers,2
+C100054,133,1,54542.35,7,High-Value Loyal Customers,0
+C100055,203,1,40714.4,6,High-Value Loyal Customers,0
+C100056,203,1,374822.5,9,Price-Sensitive Shoppers,4
+C100057,93,1,151185.6,9,Potential Loyalists,1
+C100058,283,1,127636.0,7,High-Value Loyal Customers,0
+C100059,115,1,320031.0,10,Price-Sensitive Shoppers,4
+C100060,292,1,185765.0,7,At-Risk Customers,2
+C100061,92,1,129137.4,9,High-Value Loyal Customers,0
+C100062,108,1,65238.4,8,High-Value Loyal Customers,0
+C100063,255,1,120475.6,7,High-Value Loyal Customers,0
+C100064,119,1,36084.0,7,Potential Loyalists,1
+C100065,185,1,99341.2,7,At-Risk Customers,2
+C100066,37,1,12392.75,7,Potential Loyalists,1
+C100067,6,1,50007.05,8,High-Value Loyal Customers,0
+C100068,144,1,133336.8,9,High-Value Loyal Customers,0
+C100069,158,1,173973.75,8,Price-Sensitive Shoppers,4
+C100070,201,1,244324.0,9,Price-Sensitive Shoppers,4
+C100071,126,1,39020.4,7,Potential Loyalists,1
+C100072,234,1,102062.4,6,At-Risk Customers,2
+C100073,145,1,3108.8,5,New Buyers,3
+C100074,133,1,218689.05,10,Price-Sensitive Shoppers,4
+C100075,172,1,186903.0,9,Price-Sensitive Shoppers,4
+C100076,92,1,103204.8,8,Potential Loyalists,1
+C100077,19,1,49785.6,8,Potential Loyalists,1
+C100078,130,1,37645.2,7,Potential Loyalists,1
+C100079,53,1,30436.8,7,High-Value Loyal Customers,0
+C100080,243,1,150092.4,7,High-Value Loyal Customers,0
+C100081,171,1,53023.0,6,Potential Loyalists,1
+C100082,333,1,22059.0,3,New Buyers,3
+C100083,14,1,14884.8,7,Potential Loyalists,1
+C100084,56,1,16202.25,7,Potential Loyalists,1
+C100085,107,1,211837.5,10,Price-Sensitive Shoppers,4
+C100086,133,1,39697.6,7,Potential Loyalists,1
+C100087,52,1,88738.2,9,Potential Loyalists,1
+C100088,102,1,131322.6,9,High-Value Loyal Customers,0
+C100089,34,1,132940.0,10,High-Value Loyal Customers,0
+C100090,359,1,228513.0,7,Price-Sensitive Shoppers,4
+C100091,7,1,119998.4,10,High-Value Loyal Customers,0
+C100092,2,1,23824.1,7,Potential Loyalists,1
+C100093,69,1,6393.6,7,Potential Loyalists,1
+C100094,356,1,30842.1,3,New Buyers,3
+C100095,8,1,72702.2,9,Potential Loyalists,1
+C100096,239,1,171180.0,7,Price-Sensitive Shoppers,4
+C100097,354,1,21153.6,3,New Buyers,3
+C100098,194,1,36590.4,6,New Buyers,3
+C100099,85,1,282949.2,10,Price-Sensitive Shoppers,4
+C100100,309,1,39876.05,4,New Buyers,3
+C100101,203,1,305696.0,9,Price-Sensitive Shoppers,4
+C100102,122,1,91340.0,8,Potential Loyalists,1
+C100103,126,1,30310.2,6,Potential Loyalists,1
+C100104,126,1,45548.8,7,Potential Loyalists,1
+C100105,278,1,103468.0,6,High-Value Loyal Customers,0
+C100106,49,1,116864.25,10,Potential Loyalists,1
+C100107,292,1,42667.45,4,New Buyers,3
+C100108,318,1,184950.75,7,Price-Sensitive Shoppers,4
+C100109,17,1,205768.0,11,Price-Sensitive Shoppers,4
+C100110,29,1,85358.7,9,High-Value Loyal Customers,0
+C100111,168,1,190236.8,9,Price-Sensitive Shoppers,4
+C100112,304,1,193900.0,7,Price-Sensitive Shoppers,4
+C100113,82,1,21883.2,6,Potential Loyalists,1
+C100114,25,1,54921.6,8,Potential Loyalists,1
+C100115,80,1,39447.9,7,High-Value Loyal Customers,0
+C100116,117,1,46889.4,7,Potential Loyalists,1
+C100117,127,1,48305.6,7,Potential Loyalists,1
+C100118,113,1,14038.4,6,Potential Loyalists,1
+C100119,123,1,81111.6,8,High-Value Loyal Customers,0
+C100120,173,1,81936.6,7,At-Risk Customers,2
+C100121,89,1,52424.0,7,Potential Loyalists,1
+C100122,77,1,66984.0,8,Potential Loyalists,1
+C100123,279,1,34711.2,5,At-Risk Customers,2
+C100124,58,1,962.2,7,Potential Loyalists,1
+C100125,144,1,210908.8,10,Price-Sensitive Shoppers,4
+C100126,139,1,35892.0,7,Potential Loyalists,1
+C100127,12,1,3153.6,7,Potential Loyalists,1
+C100128,68,1,383795.0,11,Price-Sensitive Shoppers,4
+C100129,50,1,71628.0,9,Potential Loyalists,1
+C100130,115,1,52676.55,7,High-Value Loyal Customers,0
+C100131,305,1,59895.0,4,At-Risk Customers,2
+C100132,142,1,100114.8,8,Potential Loyalists,1
+C100133,59,1,177057.0,10,Price-Sensitive Shoppers,4
+C100134,230,1,59296.5,5,At-Risk Customers,2
+C100135,337,1,29275.0,3,New Buyers,3
+C100136,197,1,145116.3,8,High-Value Loyal Customers,0
+C100137,39,1,168520.0,10,Potential Loyalists,1
+C100138,351,1,73593.0,5,New Buyers,3
+C100139,357,1,26140.0,3,New Buyers,3
+C100140,342,1,126638.1,6,At-Risk Customers,2
+C100141,332,1,211527.0,7,Price-Sensitive Shoppers,4
+C100142,347,1,273312.0,7,Price-Sensitive Shoppers,4
+C100143,208,1,235976.0,9,Price-Sensitive Shoppers,4
+C100144,207,1,319505.0,9,Price-Sensitive Shoppers,4
+C100145,84,1,7507.2,6,Potential Loyalists,1
+C100146,227,1,13540.0,4,New Buyers,3
+C100147,164,1,114695.4,8,High-Value Loyal Customers,0
+C100148,341,1,27180.8,3,At-Risk Customers,2
+C100149,177,1,320867.25,9,Price-Sensitive Shoppers,4
+C100150,152,1,32602.0,6,New Buyers,3
+C100151,38,1,11502.0,7,Potential Loyalists,1
+C100152,161,1,138424.5,8,At-Risk Customers,2
+C100153,244,1,182515.2,8,Price-Sensitive Shoppers,4
+C100154,332,1,199904.0,7,Price-Sensitive Shoppers,4
+C100155,347,1,185479.2,7,Price-Sensitive Shoppers,4
+C100156,283,1,916.3,4,New Buyers,3
+C100157,221,1,135305.6,7,At-Risk Customers,2
+C100158,193,1,53563.85,6,High-Value Loyal Customers,0
+C100159,181,1,57017.1,6,New Buyers,3
+C100160,205,1,159439.2,8,High-Value Loyal Customers,0
+C100161,362,1,51622.2,4,New Buyers,3
+C100162,120,1,254.4,6,New Buyers,3
+C100163,122,1,21307.8,6,Potential Loyalists,1
+C100164,154,1,107096.6,7,At-Risk Customers,2
+C100165,74,1,124465.5,10,Potential Loyalists,1
+C100166,145,1,168257.5,8,Price-Sensitive Shoppers,4
+C100167,351,1,133770.45,6,At-Risk Customers,2
+C100168,300,1,139856.0,6,At-Risk Customers,2
+C100169,64,1,144136.8,10,Potential Loyalists,1
+C100170,218,1,63070.2,5,High-Value Loyal Customers,0
+C100171,70,1,309829.25,11,Price-Sensitive Shoppers,4
+C100172,240,1,67417.2,6,At-Risk Customers,2
+C100173,140,1,181347.4,9,Price-Sensitive Shoppers,4
+C100174,105,1,176114.4,9,Price-Sensitive Shoppers,4
+C100175,284,1,134585.6,7,At-Risk Customers,2
+C100176,298,1,209116.8,7,Price-Sensitive Shoppers,4
+C100177,225,1,25347.0,4,New Buyers,3
+C100178,35,1,34157.25,8,Potential Loyalists,1
+C100179,69,1,28724.05,7,Potential Loyalists,1
+C100180,121,1,38835.0,7,High-Value Loyal Customers,0
+C100181,80,1,19072.0,6,Potential Loyalists,1
+C100182,49,1,17145.6,7,Potential Loyalists,1
+C100183,91,1,19380.0,6,Potential Loyalists,1
+C100184,138,1,109334.4,8,Potential Loyalists,1
+C100185,146,1,15622.4,5,New Buyers,3
+C100186,131,1,63171.2,7,High-Value Loyal Customers,0
+C100187,119,1,69912.4,8,High-Value Loyal Customers,0
+C100188,35,1,40208.0,8,Potential Loyalists,1
+C100189,207,1,142735.4,8,At-Risk Customers,2
+C100190,318,1,108640.0,5,At-Risk Customers,2
+C100191,233,1,65104.0,6,At-Risk Customers,2
+C100192,18,1,115009.6,10,High-Value Loyal Customers,0
+C100193,115,1,226788.75,10,Price-Sensitive Shoppers,4
+C100194,176,1,20419.2,5,Potential Loyalists,1
+C100195,364,1,102377.6,5,At-Risk Customers,2
+C100196,187,1,44960.0,6,New Buyers,3
+C100197,346,1,197242.5,7,Price-Sensitive Shoppers,4
+C100198,292,1,205648.0,7,Price-Sensitive Shoppers,4
+C100199,50,1,107262.6,9,Potential Loyalists,1
+C100200,256,1,92691.0,6,At-Risk Customers,2
+C100201,145,1,147895.2,8,At-Risk Customers,2
+C100202,240,1,107783.4,6,At-Risk Customers,2
+C100203,47,1,50867.4,8,High-Value Loyal Customers,0
+C100204,327,1,20964.4,3,New Buyers,3
+C100205,17,1,53728.5,8,Potential Loyalists,1
+C100206,123,1,72660.0,8,Potential Loyalists,1
+C100207,101,1,194360.0,10,Price-Sensitive Shoppers,4
+C100208,274,1,8281.6,4,New Buyers,3
+C100209,192,1,18065.9,5,New Buyers,3
+C100210,233,1,59496.0,5,New Buyers,3
+C100211,4,1,140715.0,10,Potential Loyalists,1
+C100212,354,1,27824.0,3,At-Risk Customers,2
+C100213,313,1,66744.9,5,High-Value Loyal Customers,0
+C100214,50,1,158931.3,10,High-Value Loyal Customers,0
+C100215,286,1,115212.6,7,High-Value Loyal Customers,0
+C100216,284,1,178546.75,7,At-Risk Customers,2
+C100217,210,1,97596.0,7,At-Risk Customers,2
+C100218,301,1,195606.0,7,Price-Sensitive Shoppers,4
+C100219,95,1,70443.2,8,High-Value Loyal Customers,0
+C100220,33,1,67696.2,9,Potential Loyalists,1
+C100221,138,1,56661.8,7,High-Value Loyal Customers,0
+C100222,180,1,281932.0,9,Price-Sensitive Shoppers,4
+C100223,12,1,86204.8,9,Potential Loyalists,1
+C100224,90,1,21070.05,6,Potential Loyalists,1
+C100225,313,1,121212.0,6,High-Value Loyal Customers,0
+C100226,65,1,219577.5,11,Price-Sensitive Shoppers,4
+C100227,21,1,119028.0,10,Potential Loyalists,1
+C100228,58,1,39317.6,8,Potential Loyalists,1
+C100229,58,1,91724.4,9,High-Value Loyal Customers,0
+C100230,295,1,148224.0,6,At-Risk Customers,2
+C100231,349,1,160822.65,6,At-Risk Customers,2
+C100232,139,1,261573.0,10,Price-Sensitive Shoppers,4
+C100233,112,1,262555.2,10,Price-Sensitive Shoppers,4
+C100234,365,1,63379.4,4,High-Value Loyal Customers,0
+C100235,305,1,24800.4,3,New Buyers,3
+C100236,179,1,34072.2,6,New Buyers,3
+C100237,31,1,137780.0,10,Potential Loyalists,1
+C100238,293,1,229282.4,7,Price-Sensitive Shoppers,4
+C100239,39,1,357257.0,11,Price-Sensitive Shoppers,4
+C100240,2,1,84218.4,9,Potential Loyalists,1
+C100241,265,1,242380.0,8,Price-Sensitive Shoppers,4
+C100242,80,1,18387.0,6,Potential Loyalists,1
+C100243,180,1,129203.1,8,High-Value Loyal Customers,0
+C100244,295,1,108003.2,5,At-Risk Customers,2
+C100245,135,1,60952.5,7,High-Value Loyal Customers,0
+C100246,91,1,12586.8,6,Potential Loyalists,1
+C100247,351,1,249820.8,7,Price-Sensitive Shoppers,4
+C100248,93,1,125004.0,9,Potential Loyalists,1
+C100249,190,1,174210.0,8,At-Risk Customers,2
+C100250,352,1,21620.0,3,New Buyers,3
+C100251,66,1,239577.0,11,Price-Sensitive Shoppers,4
+C100252,229,1,43360.2,5,High-Value Loyal Customers,0
+C100253,365,1,76750.0,5,High-Value Loyal Customers,0
+C100254,355,1,109829.5,5,At-Risk Customers,2
+C100255,109,1,225776.0,10,Price-Sensitive Shoppers,4
+C100256,246,1,105885.9,6,At-Risk Customers,2
+C100257,128,1,139610.1,9,High-Value Loyal Customers,0
+C100258,113,1,364865.0,10,Price-Sensitive Shoppers,4
+C100259,221,1,50950.8,5,At-Risk Customers,2
+C100260,51,1,9071.55,7,Potential Loyalists,1
+C100261,165,1,46992.6,6,New Buyers,3
+C100262,131,1,39912.0,7,High-Value Loyal Customers,0
+C100263,241,1,15363.2,4,New Buyers,3
+C100264,98,1,90429.8,8,Potential Loyalists,1
+C100265,362,1,9746.05,3,New Buyers,3
+C100266,36,1,110828.0,9,High-Value Loyal Customers,0
+C100267,174,1,117130.0,8,High-Value Loyal Customers,0
+C100268,123,1,36555.3,7,Potential Loyalists,1
+C100269,142,1,92958.0,8,Potential Loyalists,1
+C100270,302,1,12770.4,3,New Buyers,3
+C100271,289,1,314876.0,8,Price-Sensitive Shoppers,4
+C100272,236,1,60598.8,5,At-Risk Customers,2
+C100273,114,1,29936.7,6,High-Value Loyal Customers,0
+C100274,192,1,109657.6,7,At-Risk Customers,2
+C100275,167,1,89054.4,7,High-Value Loyal Customers,0
+C100276,249,1,271726.6,8,Price-Sensitive Shoppers,4
+C100277,295,1,284611.5,7,Price-Sensitive Shoppers,4
+C100278,63,1,40846.2,8,Potential Loyalists,1
+C100279,309,1,108020.8,5,High-Value Loyal Customers,0
+C100280,91,1,139492.0,9,Potential Loyalists,1
+C100281,217,1,281932.0,8,Price-Sensitive Shoppers,4
+C100282,343,1,146786.4,6,At-Risk Customers,2
+C100283,265,1,216539.2,8,Price-Sensitive Shoppers,4
+C100284,317,1,179206.4,6,Price-Sensitive Shoppers,4
+C100285,150,1,123129.0,8,High-Value Loyal Customers,0
+C100286,246,1,296959.5,8,Price-Sensitive Shoppers,4
+C100287,135,1,239232.5,10,Price-Sensitive Shoppers,4
+C100288,204,1,109636.2,7,At-Risk Customers,2
+C100289,152,1,187618.8,9,Price-Sensitive Shoppers,4
+C100290,76,1,159465.0,10,High-Value Loyal Customers,0
+C100291,359,1,168559.2,6,At-Risk Customers,2
+C100292,179,1,143771.1,8,High-Value Loyal Customers,0
+C100293,171,1,61016.0,6,At-Risk Customers,2
+C100294,81,1,25962.4,6,Potential Loyalists,1
+C100295,288,1,329587.5,8,Price-Sensitive Shoppers,4
+C100296,303,1,4462.2,3,New Buyers,3
+C100297,58,1,89415.9,9,Potential Loyalists,1
+C100298,95,1,150998.7,9,High-Value Loyal Customers,0
+C100299,21,1,117174.4,10,Potential Loyalists,1
+C100300,148,1,11224.8,5,New Buyers,3
+C100301,312,1,348445.0,7,Price-Sensitive Shoppers,4
+C100302,80,1,9554.15,6,Potential Loyalists,1
+C100303,225,1,17928.0,4,At-Risk Customers,2
+C100304,141,1,13702.8,6,Potential Loyalists,1
+C100305,291,1,32698.8,4,At-Risk Customers,2
+C100306,226,1,33628.1,5,New Buyers,3
+C100307,138,1,90182.4,8,High-Value Loyal Customers,0
+C100308,218,1,20847.6,4,New Buyers,3
+C100309,100,1,20727.1,6,Potential Loyalists,1
+C100310,202,1,77900.4,7,At-Risk Customers,2
+C100311,130,1,22752.0,6,Potential Loyalists,1
+C100312,113,1,74930.4,8,Potential Loyalists,1
+C100313,124,1,157283.2,9,Price-Sensitive Shoppers,4
+C100314,64,1,9573.15,7,Potential Loyalists,1
+C100315,67,1,174882.4,10,Price-Sensitive Shoppers,4
+C100316,229,1,184318.05,8,Price-Sensitive Shoppers,4
+C100317,150,1,98922.6,7,Potential Loyalists,1
+C100318,170,1,17224.2,5,New Buyers,3
+C100319,114,1,36011.95,7,High-Value Loyal Customers,0
+C100320,240,1,206562.3,8,Price-Sensitive Shoppers,4
+C100321,19,1,297396.0,11,Price-Sensitive Shoppers,4
+C100322,224,1,205073.1,8,Price-Sensitive Shoppers,4
+C100323,57,1,136942.5,10,High-Value Loyal Customers,0
+C100324,366,1,144919.8,6,At-Risk Customers,2
+C100325,365,1,169270.05,6,At-Risk Customers,2
+C100326,17,1,103884.0,9,Potential Loyalists,1
+C100327,89,1,45936.0,7,Potential Loyalists,1
+C100328,190,1,143575.4,8,High-Value Loyal Customers,0
+C100329,363,1,74885.0,5,High-Value Loyal Customers,0
+C100330,204,1,70128.0,7,At-Risk Customers,2
+C100331,195,1,15376.8,5,New Buyers,3
+C100332,51,1,54870.4,8,Potential Loyalists,1
+C100333,207,1,178707.6,8,Price-Sensitive Shoppers,4
+C100334,53,1,70205.0,9,Potential Loyalists,1
+C100335,195,1,29853.9,5,New Buyers,3
+C100336,147,1,246003.6,9,Price-Sensitive Shoppers,4
+C100337,350,1,163021.5,6,At-Risk Customers,2
+C100338,42,1,314480.0,11,Price-Sensitive Shoppers,4
+C100339,281,1,85568.4,6,At-Risk Customers,2
+C100340,37,1,70992.55,9,High-Value Loyal Customers,0
+C100341,127,1,92905.0,8,Potential Loyalists,1
+C100342,257,1,186082.2,8,Price-Sensitive Shoppers,4
+C100343,200,1,14206.5,5,New Buyers,3
+C100344,102,1,46645.2,7,Potential Loyalists,1
+C100345,169,1,126940.0,8,At-Risk Customers,2
+C100346,289,1,37852.8,5,New Buyers,3
+C100347,121,1,113582.0,9,High-Value Loyal Customers,0
+C100348,361,1,27032.0,3,New Buyers,3
+C100349,96,1,35666.0,7,High-Value Loyal Customers,0
+C100350,253,1,127323.2,7,At-Risk Customers,2
+C100351,16,1,46766.4,8,Potential Loyalists,1
+C100352,147,1,10295.2,5,New Buyers,3
+C100353,190,1,311724.75,9,Price-Sensitive Shoppers,4
+C100354,14,1,129918.0,10,Potential Loyalists,1
+C100355,314,1,94588.0,5,At-Risk Customers,2
+C100356,310,1,156149.25,6,Price-Sensitive Shoppers,4
+C100357,49,1,109297.5,9,High-Value Loyal Customers,0
+C100358,310,1,70524.0,5,At-Risk Customers,2
+C100359,165,1,70308.8,7,High-Value Loyal Customers,0
+C100360,130,1,143996.8,9,Price-Sensitive Shoppers,4
+C100361,200,1,323964.75,9,Price-Sensitive Shoppers,4
+C100362,198,1,62551.8,6,High-Value Loyal Customers,0
+C100363,301,1,81435.0,5,At-Risk Customers,2
+C100364,151,1,386620.0,9,Price-Sensitive Shoppers,4
+C100365,85,1,52975.2,7,Potential Loyalists,1
+C100366,7,1,56794.5,8,Potential Loyalists,1
+C100367,184,1,17834.4,5,Potential Loyalists,1
+C100368,46,1,3173.9,7,Potential Loyalists,1
+C100369,364,1,202002.0,7,Price-Sensitive Shoppers,4
+C100370,243,1,137198.0,7,High-Value Loyal Customers,0
+C100371,227,1,55030.65,5,New Buyers,3
+C100372,274,1,61934.4,5,At-Risk Customers,2
+C100373,141,1,138357.6,9,High-Value Loyal Customers,0
+C100374,66,1,36472.0,8,Potential Loyalists,1
+C100375,223,1,108801.6,6,At-Risk Customers,2
+C100376,165,1,106410.6,7,High-Value Loyal Customers,0
+C100377,209,1,227209.6,9,Price-Sensitive Shoppers,4
+C100378,10,1,122746.8,10,High-Value Loyal Customers,0
+C100379,244,1,395475.0,8,Price-Sensitive Shoppers,4
+C100380,4,1,5995.8,7,Potential Loyalists,1
+C100381,265,1,93189.75,6,At-Risk Customers,2
+C100382,365,1,10496.55,3,New Buyers,3
+C100383,94,1,258375.6,10,Price-Sensitive Shoppers,4
+C100384,96,1,45425.0,7,High-Value Loyal Customers,0
+C100385,313,1,63121.5,4,High-Value Loyal Customers,0
+C100386,53,1,73854.0,9,Potential Loyalists,1
+C100387,121,1,169615.8,9,Price-Sensitive Shoppers,4
+C100388,317,1,217385.6,7,Price-Sensitive Shoppers,4
+C100389,243,1,4982.4,4,New Buyers,3
+C100390,268,1,310000.5,8,Price-Sensitive Shoppers,4
+C100391,69,1,382415.0,11,Price-Sensitive Shoppers,4
+C100392,238,1,57917.3,5,New Buyers,3
+C100393,279,1,60540.4,5,New Buyers,3
+C100394,79,1,29449.1,6,High-Value Loyal Customers,0
+C100395,48,1,129171.6,10,High-Value Loyal Customers,0
+C100396,265,1,59714.15,5,High-Value Loyal Customers,0
+C100397,172,1,242325.0,9,Price-Sensitive Shoppers,4
+C100398,325,1,113629.5,6,At-Risk Customers,2
+C100399,138,1,60965.6,7,High-Value Loyal Customers,0
+C100400,229,1,42647.9,6,New Buyers,3
+C100401,91,1,936.8,7,Potential Loyalists,1
+C100402,274,1,31475.0,5,New Buyers,3
+C100403,147,1,2815.2,6,Potential Loyalists,1
+C100404,35,1,57818.4,9,Potential Loyalists,1
+C100405,104,1,66823.95,9,Potential Loyalists,1
+C100406,312,1,168478.5,7,At-Risk Customers,2
+C100407,336,1,30979.8,4,New Buyers,3
+C100408,3,1,133458.0,11,High-Value Loyal Customers,0
+C100409,62,1,7393.5,8,Potential Loyalists,1
+C100410,299,1,16040.0,4,New Buyers,3
+C100411,13,1,41552.0,9,High-Value Loyal Customers,0
+C100412,175,1,263055.0,10,Price-Sensitive Shoppers,4
+C100413,209,1,99084.0,8,At-Risk Customers,2
+C100414,317,1,253162.8,8,Price-Sensitive Shoppers,4
+C100415,151,1,1866.75,6,Potential Loyalists,1
+C100416,122,1,52246.2,8,Potential Loyalists,1
+C100417,213,1,169728.0,9,At-Risk Customers,2
+C100418,38,1,231879.0,12,Price-Sensitive Shoppers,4
+C100419,105,1,3993.8,7,Potential Loyalists,1
+C100420,82,1,199948.5,11,Price-Sensitive Shoppers,4
+C100421,310,1,119639.2,7,At-Risk Customers,2
+C100422,173,1,280692.0,10,Price-Sensitive Shoppers,4
+C100423,123,1,23289.15,7,New Buyers,3
+C100424,336,1,206628.8,8,Price-Sensitive Shoppers,4
+C100425,41,1,196317.0,12,Price-Sensitive Shoppers,4
+C100426,36,1,60858.0,9,High-Value Loyal Customers,0
+C100427,112,1,59448.0,8,High-Value Loyal Customers,0
+C100428,276,1,4918.4,5,At-Risk Customers,2
+C100429,146,1,108491.4,8,Potential Loyalists,1
+C100430,195,1,7364.0,6,New Buyers,3
+C100431,81,1,36918.9,8,Potential Loyalists,1
+C100432,110,1,18966.6,7,Potential Loyalists,1
+C100433,7,1,22867.2,8,Potential Loyalists,1
+C100434,110,1,174997.6,10,Price-Sensitive Shoppers,4
+C100435,330,1,320271.5,8,Price-Sensitive Shoppers,4
+C100436,185,1,159823.8,9,High-Value Loyal Customers,0
+C100437,102,1,23731.2,7,Potential Loyalists,1
+C100438,220,1,1342.8,5,New Buyers,3
+C100439,173,1,337720.5,10,Price-Sensitive Shoppers,4
+C100440,249,1,12403.2,5,At-Risk Customers,2
+C100441,113,1,255984.0,11,Price-Sensitive Shoppers,4
+C100442,42,1,87268.0,10,High-Value Loyal Customers,0
+C100443,97,1,133604.0,10,High-Value Loyal Customers,0
+C100444,67,1,266841.0,12,Price-Sensitive Shoppers,4
+C100445,169,1,156750.0,9,At-Risk Customers,2
+C100446,210,1,192431.5,10,Price-Sensitive Shoppers,4
+C100447,37,1,67384.6,10,High-Value Loyal Customers,0
+C100448,333,1,113440.0,7,At-Risk Customers,2
+C100449,61,1,125346.8,11,High-Value Loyal Customers,0
+C100450,207,1,34745.4,7,New Buyers,3
+C100451,290,1,5628.6,4,New Buyers,3
+C100452,102,1,204837.25,11,Price-Sensitive Shoppers,4
+C100453,309,1,12414.6,4,New Buyers,3
+C100454,107,1,33924.0,8,Potential Loyalists,1
+C100455,93,1,287802.0,11,Price-Sensitive Shoppers,4
+C100456,343,1,143728.0,7,At-Risk Customers,2
+C100457,82,1,101750.4,9,Potential Loyalists,1
+C100458,358,1,146220.8,7,At-Risk Customers,2
+C100459,219,1,115148.8,8,High-Value Loyal Customers,0
+C100460,73,1,229952.25,12,Price-Sensitive Shoppers,4
+C100461,322,1,95478.8,6,High-Value Loyal Customers,0
+C100462,222,1,32518.5,6,New Buyers,3
+C100463,205,1,14370.0,6,New Buyers,3
+C100464,89,1,117192.0,10,High-Value Loyal Customers,0
+C100465,269,1,13787.0,5,New Buyers,3
+C100466,170,1,103650.3,8,High-Value Loyal Customers,0
+C100467,61,1,57801.6,9,Potential Loyalists,1
+C100468,342,1,149842.0,7,High-Value Loyal Customers,0
+C100469,136,1,159729.2,10,Price-Sensitive Shoppers,4
+C100470,206,1,215524.8,10,Price-Sensitive Shoppers,4
+C100471,287,1,49963.85,6,High-Value Loyal Customers,0
+C100472,252,1,216097.2,9,Price-Sensitive Shoppers,4
+C100473,242,1,105582.0,7,High-Value Loyal Customers,0
+C100474,344,1,114354.0,7,High-Value Loyal Customers,0
+C100475,189,1,234887.5,10,Price-Sensitive Shoppers,4
+C100476,118,1,197308.8,11,Price-Sensitive Shoppers,4
+C100477,6,1,48161.0,9,Potential Loyalists,1
+C100478,323,1,175257.9,7,Price-Sensitive Shoppers,4
+C100479,102,1,110220.8,9,Potential Loyalists,1
+C100480,184,1,196227.0,10,Price-Sensitive Shoppers,4
+C100481,230,1,114764.0,8,At-Risk Customers,2
+C100482,152,1,9904.0,6,New Buyers,3
+C100483,179,1,98720.7,8,At-Risk Customers,2
+C100484,137,1,241627.75,11,Price-Sensitive Shoppers,4
+C100485,220,1,30435.1,5,New Buyers,3
+C100486,278,1,68419.0,7,New Buyers,3
+C100487,12,1,13648.0,8,Potential Loyalists,1
+C100488,24,1,75139.3,10,High-Value Loyal Customers,0
+C100489,61,1,52888.0,9,High-Value Loyal Customers,0
+C100490,344,1,26625.65,4,New Buyers,3
+C100491,21,1,219316.0,12,Price-Sensitive Shoppers,4
+C100492,226,1,11313.6,5,New Buyers,3
+C100493,56,1,117491.25,11,Potential Loyalists,1
+C100494,27,1,84336.0,10,Potential Loyalists,1
+C100495,33,1,145356.0,11,Potential Loyalists,1
+C100496,273,1,16190.8,5,New Buyers,3
+C100497,316,1,37612.8,5,New Buyers,3
+C100498,364,1,50568.2,5,At-Risk Customers,2
+C100499,364,1,40304.0,5,New Buyers,3
+C100500,238,1,54292.05,6,At-Risk Customers,2
+C100501,275,1,87912.0,7,High-Value Loyal Customers,0
+C100502,112,1,24201.0,7,New Buyers,3
+C100503,302,1,68991.85,6,High-Value Loyal Customers,0
+C100504,359,1,10119.6,4,New Buyers,3
+C100505,134,1,105750.0,9,At-Risk Customers,2
+C100506,2,1,113110.4,11,Potential Loyalists,1
+C100507,31,1,36817.25,9,Potential Loyalists,1
+C100508,74,1,112124.0,10,Potential Loyalists,1
+C100509,272,1,21944.05,5,New Buyers,3
+C100510,361,1,136659.6,7,At-Risk Customers,2
+C100511,5,1,114427.5,11,High-Value Loyal Customers,0
+C100512,330,1,65699.2,6,At-Risk Customers,2
+C100513,260,1,32616.2,6,New Buyers,3
+C100514,119,1,33320.0,8,Potential Loyalists,1
+C100515,266,1,65973.6,7,At-Risk Customers,2
+C100516,170,1,34814.7,7,New Buyers,3
+C100517,353,1,24753.6,4,New Buyers,3
+C100518,186,1,32209.0,7,New Buyers,3
+C100519,158,1,88099.95,8,Potential Loyalists,1
+C100520,311,1,136774.0,7,High-Value Loyal Customers,0
+C100521,327,1,54630.35,5,High-Value Loyal Customers,0
+C100522,114,1,326805.0,11,Price-Sensitive Shoppers,4
+C100523,320,1,72298.8,6,At-Risk Customers,2
+C100524,343,1,101730.75,6,At-Risk Customers,2
+C100525,333,1,20611.2,4,New Buyers,3
+C100526,177,1,84970.8,8,High-Value Loyal Customers,0
+C100527,158,1,68504.5,8,High-Value Loyal Customers,0
+C100528,131,1,112496.0,9,Potential Loyalists,1
+C100529,24,1,12150.0,8,Potential Loyalists,1
+C100530,25,1,22775.3,8,Potential Loyalists,1
+C100531,43,1,80928.6,10,Potential Loyalists,1
+C100532,203,1,73861.2,8,At-Risk Customers,2
+C100533,5,1,173826.0,11,Price-Sensitive Shoppers,4
+C100534,117,1,248497.2,11,Price-Sensitive Shoppers,4
+C100535,166,1,139824.0,9,High-Value Loyal Customers,0
+C100536,114,1,159518.0,10,High-Value Loyal Customers,0
+C100537,201,1,88087.2,8,At-Risk Customers,2
+C100538,150,1,193827.2,10,Price-Sensitive Shoppers,4
+C100539,166,1,206451.15,10,Price-Sensitive Shoppers,4
+C100540,333,1,52146.9,5,High-Value Loyal Customers,0
+C100541,110,1,74126.8,9,Potential Loyalists,1
+C100542,334,1,365920.0,8,Price-Sensitive Shoppers,4
+C100543,273,1,178624.8,8,Price-Sensitive Shoppers,4
+C100544,128,1,118461.0,10,Potential Loyalists,1
+C100545,1,1,138608.0,11,High-Value Loyal Customers,0
+C100546,53,1,175707.0,11,High-Value Loyal Customers,0
+C100547,60,1,207616.5,12,Price-Sensitive Shoppers,4
+C100548,283,1,35966.9,6,New Buyers,3
+C100549,174,1,303844.0,10,Price-Sensitive Shoppers,4
+C100550,359,1,207405.0,8,At-Risk Customers,2
+C100551,250,1,155272.05,8,High-Value Loyal Customers,0
+C100552,88,1,60893.0,8,High-Value Loyal Customers,0
+C100553,354,1,90136.0,6,At-Risk Customers,2
+C100554,244,1,101773.8,7,High-Value Loyal Customers,0
+C100555,341,1,26284.0,4,At-Risk Customers,2
+C100556,40,1,30321.0,8,Potential Loyalists,1
+C100557,151,1,139401.0,9,High-Value Loyal Customers,0
+C100558,311,1,52055.0,5,New Buyers,3
+C100559,301,1,57831.25,5,At-Risk Customers,2
+C100560,27,1,176486.4,11,High-Value Loyal Customers,0
+C100561,127,1,313144.25,11,Price-Sensitive Shoppers,4
+C100562,283,1,20595.5,5,New Buyers,3
+C100563,310,1,148996.8,7,At-Risk Customers,2
+C100564,143,1,260700.0,11,Price-Sensitive Shoppers,4
+C100565,18,1,120415.25,11,Potential Loyalists,1
+C100566,83,1,375055.0,11,Price-Sensitive Shoppers,4
+C100567,19,1,8379.0,8,Potential Loyalists,1
+C100568,22,1,134530.2,11,Potential Loyalists,1
+C100569,8,1,43350.0,9,Potential Loyalists,1
+C100570,58,1,52213.8,9,Potential Loyalists,1
+C100571,207,1,227657.6,10,Price-Sensitive Shoppers,4
+C100572,7,1,72866.9,10,High-Value Loyal Customers,0
+C100573,295,1,202084.0,8,Price-Sensitive Shoppers,4
+C100574,67,1,53919.75,9,High-Value Loyal Customers,0
+C100575,270,1,40876.5,6,New Buyers,3
+C100576,184,1,30917.0,6,New Buyers,3
+C100577,292,1,78701.5,6,New Buyers,3
+C100578,304,1,4335.0,4,New Buyers,3
+C100579,2,1,38131.0,9,Potential Loyalists,1
+C100580,1,1,49267.2,9,Potential Loyalists,1
+C100581,276,1,8712.0,5,At-Risk Customers,2
+C100582,69,1,238688.5,12,Price-Sensitive Shoppers,4
+C100583,75,1,278744.25,12,Price-Sensitive Shoppers,4
+C100584,4,1,57490.4,9,High-Value Loyal Customers,0
+C100585,108,1,126934.4,10,High-Value Loyal Customers,0
+C100586,8,1,59733.0,9,Potential Loyalists,1
+C100587,246,1,32224.95,6,New Buyers,3
+C100588,188,1,10048.15,6,New Buyers,3
+C100589,37,1,196664.25,12,Price-Sensitive Shoppers,4
+C100590,67,1,152059.2,11,High-Value Loyal Customers,0
+C100591,260,1,87943.4,7,At-Risk Customers,2
+C100592,279,1,8445.6,5,New Buyers,3
+C100593,275,1,56508.0,6,At-Risk Customers,2
+C100594,83,1,75753.0,9,Potential Loyalists,1
+C100595,24,1,158400.0,11,Potential Loyalists,1
+C100596,11,1,207422.1,12,Price-Sensitive Shoppers,4
+C100597,329,1,83906.85,6,At-Risk Customers,2
+C100598,350,1,3211.2,4,New Buyers,3
+C100599,345,1,301284.0,8,Price-Sensitive Shoppers,4
+C100600,200,1,67707.6,8,At-Risk Customers,2
+C100601,144,1,33067.6,8,Potential Loyalists,1
+C100602,217,1,1494.0,5,New Buyers,3
+C100603,215,1,186432.2,10,Price-Sensitive Shoppers,4
+C100604,101,1,178513.2,10,Price-Sensitive Shoppers,4
+C100605,137,1,60672.0,8,Potential Loyalists,1
+C100606,93,1,301500.0,11,Price-Sensitive Shoppers,4
+C100607,18,1,58018.4,9,Potential Loyalists,1
+C100608,174,1,176440.0,9,Price-Sensitive Shoppers,4
+C100609,38,1,11327.4,8,Potential Loyalists,1
+C100610,256,1,193784.4,9,Price-Sensitive Shoppers,4
+C100611,172,1,104272.0,8,At-Risk Customers,2
+C100612,318,1,135289.5,7,At-Risk Customers,2
+C100613,341,1,101030.6,6,At-Risk Customers,2
+C100614,191,1,15246.9,6,New Buyers,3
+C100615,37,1,340760.0,12,Price-Sensitive Shoppers,4
+C100616,95,1,40396.8,8,Potential Loyalists,1
+C100617,38,1,129329.2,11,Potential Loyalists,1
+C100618,280,1,9216.9,5,New Buyers,3
+C100619,118,1,141369.0,10,High-Value Loyal Customers,0
+C100620,294,1,51179.35,5,High-Value Loyal Customers,0
+C100621,278,1,1772.0,5,New Buyers,3
+C100622,95,1,74650.5,9,Potential Loyalists,1
+C100623,35,1,231339.0,12,Price-Sensitive Shoppers,4
+C100624,153,1,24465.0,6,New Buyers,3
+C100625,313,1,275785.0,8,Price-Sensitive Shoppers,4
+C100626,103,1,32122.8,7,Potential Loyalists,1
+C100627,123,1,195632.0,11,Price-Sensitive Shoppers,4
+C100628,42,1,83978.4,10,Potential Loyalists,1
+C100629,330,1,20865.0,4,New Buyers,3
+C100630,123,1,88092.3,9,High-Value Loyal Customers,0
+C100631,347,1,259332.0,8,Price-Sensitive Shoppers,4
+C100632,297,1,52012.8,5,At-Risk Customers,2
+C100633,305,1,95910.4,6,At-Risk Customers,2
+C100634,339,1,31898.4,4,New Buyers,3
+C100635,355,1,11062.75,4,New Buyers,3
+C100636,365,1,45107.9,5,New Buyers,3
+C100637,317,1,39708.6,5,New Buyers,3
+C100638,152,1,116254.8,9,At-Risk Customers,2
+C100639,179,1,155952.0,9,High-Value Loyal Customers,0
+C100640,30,1,54442.8,9,Potential Loyalists,1
+C100641,282,1,17894.7,5,New Buyers,3
+C100642,65,1,5561.1,8,Potential Loyalists,1
+C100643,275,1,33956.8,6,New Buyers,3
+C100644,270,1,103708.8,7,At-Risk Customers,2
+C100645,219,1,41496.3,6,New Buyers,3
+C100646,333,1,106004.0,6,At-Risk Customers,2
+C100647,286,1,3048.0,5,New Buyers,3
+C100648,294,1,73306.8,6,At-Risk Customers,2
+C100649,222,1,13222.1,5,New Buyers,3
+C100650,270,1,22292.1,5,New Buyers,3
+C100651,243,1,90710.4,7,At-Risk Customers,2
+C100652,32,1,216252.0,12,Price-Sensitive Shoppers,4
+C100653,28,1,143168.4,11,High-Value Loyal Customers,0
+C100654,114,1,34353.9,8,Potential Loyalists,1
+C100655,263,1,283538.75,9,Price-Sensitive Shoppers,4
+C100656,123,1,85921.4,9,Potential Loyalists,1
+C100657,238,1,184831.05,9,Price-Sensitive Shoppers,4
+C100658,234,1,14630.0,5,At-Risk Customers,2
+C100659,113,1,32570.0,8,Potential Loyalists,1
+C100660,217,1,267824.0,9,Price-Sensitive Shoppers,4
+C100661,78,1,121480.0,10,Potential Loyalists,1
+C100662,83,1,27792.0,7,Potential Loyalists,1
+C100663,330,1,34334.0,5,New Buyers,3
+C100664,19,1,184501.4,12,Price-Sensitive Shoppers,4
+C100665,330,1,38960.0,5,At-Risk Customers,2
+C100666,104,1,251330.0,11,Price-Sensitive Shoppers,4
+C100667,61,1,175571.75,11,Price-Sensitive Shoppers,4
+C100668,112,1,83684.2,9,Potential Loyalists,1
+C100669,89,1,10282.8,7,Potential Loyalists,1
+C100670,262,1,59353.8,6,At-Risk Customers,2
+C100671,167,1,51566.0,7,High-Value Loyal Customers,0
+C100672,279,1,180201.0,8,Price-Sensitive Shoppers,4
+C100673,262,1,349186.75,9,Price-Sensitive Shoppers,4
+C100674,101,1,168047.55,10,High-Value Loyal Customers,0
+C100675,251,1,204402.0,9,Price-Sensitive Shoppers,4
+C100676,121,1,64484.4,9,Potential Loyalists,1
+C100677,119,1,64184.85,9,High-Value Loyal Customers,0
+C100678,72,1,55531.3,9,Potential Loyalists,1
+C100679,215,1,56398.5,7,At-Risk Customers,2
+C100680,156,1,132175.2,9,High-Value Loyal Customers,0
+C100681,83,1,173901.0,10,High-Value Loyal Customers,0
+C100682,146,1,175563.8,9,Price-Sensitive Shoppers,4
+C100683,338,1,32371.25,5,New Buyers,3
+C100684,248,1,199395.0,9,Price-Sensitive Shoppers,4
+C100685,104,1,106473.6,9,High-Value Loyal Customers,0
+C100686,358,1,131716.8,7,High-Value Loyal Customers,0
+C100687,195,1,37060.0,7,At-Risk Customers,2
+C100688,348,1,28800.0,4,At-Risk Customers,2
+C100689,126,1,270861.0,11,Price-Sensitive Shoppers,4
+C100690,210,1,40829.1,7,New Buyers,3
+C100691,196,1,69360.0,8,At-Risk Customers,2
+C100692,252,1,13599.0,5,New Buyers,3
+C100693,149,1,95714.4,8,Potential Loyalists,1
+C100694,208,1,65373.3,8,High-Value Loyal Customers,0
+C100695,303,1,86499.0,6,At-Risk Customers,2
+C100696,286,1,168435.0,8,At-Risk Customers,2
+C100697,358,1,103150.9,6,High-Value Loyal Customers,0
+C100698,248,1,59724.6,6,At-Risk Customers,2
+C100699,293,1,14114.0,4,New Buyers,3
+C100700,232,1,38022.2,6,New Buyers,3
+C100701,277,1,49931.55,6,New Buyers,3
+C100702,237,1,48907.2,6,New Buyers,3
+C100703,193,1,88268.8,8,At-Risk Customers,2
+C100704,97,1,211860.0,11,Price-Sensitive Shoppers,4
+C100705,266,1,217514.85,9,Price-Sensitive Shoppers,4
+C100706,366,1,181199.6,7,At-Risk Customers,2
+C100707,295,1,49006.7,5,New Buyers,3
+C100708,348,1,189510.3,8,Price-Sensitive Shoppers,4
+C100709,274,1,24429.25,5,New Buyers,3
+C100710,7,1,129897.6,11,Potential Loyalists,1
+C100711,58,1,35892.8,9,Potential Loyalists,1
+C100712,283,1,29012.2,5,New Buyers,3
+C100713,88,1,83667.2,9,High-Value Loyal Customers,0
+C100714,122,1,175431.5,10,Price-Sensitive Shoppers,4
+C100715,364,1,9883.8,4,New Buyers,3
+C100716,357,1,112603.5,6,At-Risk Customers,2
+C100717,187,1,203266.8,10,Price-Sensitive Shoppers,4
+C100718,13,1,204094.8,12,Price-Sensitive Shoppers,4
+C100719,72,1,73450.0,10,Potential Loyalists,1
+C100720,249,1,125141.6,8,High-Value Loyal Customers,0
+C100721,104,1,56741.6,8,High-Value Loyal Customers,0
+C100722,289,1,133955.0,8,At-Risk Customers,2
+C100723,35,1,223907.4,12,Price-Sensitive Shoppers,4
+C100724,102,1,313328.0,11,Price-Sensitive Shoppers,4
+C100725,340,1,73866.3,6,New Buyers,3
+C100726,234,1,37593.8,6,New Buyers,3
+C100727,281,1,75818.4,7,At-Risk Customers,2
+C100728,4,1,77954.4,10,Potential Loyalists,1
+C100729,18,1,98338.2,10,Potential Loyalists,1
+C100730,232,1,232191.0,9,Price-Sensitive Shoppers,4
+C100731,64,1,18030.6,8,Potential Loyalists,1
+C100732,234,1,227820.0,9,Price-Sensitive Shoppers,4
+C100733,211,1,24442.6,6,New Buyers,3
+C100734,211,1,9856.0,6,At-Risk Customers,2
+C100735,288,1,58223.2,6,High-Value Loyal Customers,0
+C100736,58,1,26684.9,8,Potential Loyalists,1
+C100737,251,1,55904.5,6,New Buyers,3
+C100738,145,1,248435.2,10,Price-Sensitive Shoppers,4
+C100739,213,1,36003.0,7,New Buyers,3
+C100740,268,1,33773.0,6,New Buyers,3
+C100741,336,1,58649.15,5,High-Value Loyal Customers,0
+C100742,97,1,10672.2,7,Potential Loyalists,1
+C100743,44,1,19696.0,8,Potential Loyalists,1
+C100744,132,1,100692.0,9,High-Value Loyal Customers,0
+C100745,189,1,143679.6,9,At-Risk Customers,2
+C100746,58,1,72572.4,10,Potential Loyalists,1
+C100747,74,1,119066.3,11,High-Value Loyal Customers,0
+C100748,78,1,43429.5,8,Potential Loyalists,1
+C100749,115,1,174245.0,10,Price-Sensitive Shoppers,4
+C100750,128,1,33731.4,8,Potential Loyalists,1
+C100751,91,1,20512.8,7,Potential Loyalists,1
+C100752,267,1,379415.0,9,Price-Sensitive Shoppers,4
+C100753,296,1,288243.5,8,Price-Sensitive Shoppers,4
+C100754,87,1,36063.9,8,High-Value Loyal Customers,0
+C100755,45,1,114902.0,11,High-Value Loyal Customers,0
+C100756,266,1,87457.0,7,At-Risk Customers,2
+C100757,215,1,57968.0,7,New Buyers,3
+C100758,175,1,2002.6,6,Potential Loyalists,1
+C100759,3,1,36001.2,9,Potential Loyalists,1
+C100760,292,1,127594.8,7,At-Risk Customers,2
+C100761,7,1,46264.0,9,Potential Loyalists,1
+C100762,363,1,316892.0,8,Price-Sensitive Shoppers,4
+C100763,157,1,92452.8,8,Potential Loyalists,1
+C100764,87,1,323641.25,11,Price-Sensitive Shoppers,4
+C100765,338,1,44480.5,5,New Buyers,3
+C100766,254,1,112785.9,8,High-Value Loyal Customers,0
+C100767,200,1,240107.75,10,Price-Sensitive Shoppers,4
+C100768,13,1,118320.0,11,Potential Loyalists,1
+C100769,327,1,353243.25,8,Price-Sensitive Shoppers,4
+C100770,338,1,7660.0,4,New Buyers,3
+C100771,296,1,10339.8,4,At-Risk Customers,2
+C100772,216,1,181852.8,9,Price-Sensitive Shoppers,4
+C100773,238,1,63194.4,6,High-Value Loyal Customers,0
+C100774,162,1,98068.8,8,High-Value Loyal Customers,0
+C100775,336,1,45390.05,5,New Buyers,3
+C100776,225,1,46867.2,6,At-Risk Customers,2
+C100777,85,1,153594.0,10,Potential Loyalists,1
+C100778,32,1,49511.7,9,High-Value Loyal Customers,0
+C100779,132,1,7375.5,7,Potential Loyalists,1
+C100780,151,1,96312.9,8,Potential Loyalists,1
+C100781,104,1,15429.6,7,Potential Loyalists,1
+C100782,18,1,17393.4,8,Potential Loyalists,1
+C100783,233,1,42626.5,6,New Buyers,3
+C100784,62,1,29100.8,8,High-Value Loyal Customers,0
+C100785,45,1,12883.0,8,Potential Loyalists,1
+C100786,101,1,7339.7,7,New Buyers,3
+C100787,156,1,227700.75,10,Price-Sensitive Shoppers,4
+C100788,265,1,86828.0,7,At-Risk Customers,2
+C100789,36,1,275055.0,12,Price-Sensitive Shoppers,4
+C100790,93,1,39890.5,8,High-Value Loyal Customers,0
+C100791,7,1,211237.2,12,Price-Sensitive Shoppers,4
+C100792,285,1,23713.2,5,New Buyers,3
+C100793,78,1,12066.6,7,Potential Loyalists,1
+C100794,31,1,97380.9,10,Potential Loyalists,1
+C100795,149,1,50713.6,7,Potential Loyalists,1
+C100796,157,1,34785.2,7,New Buyers,3
+C100797,151,1,327370.0,10,Price-Sensitive Shoppers,4
+C100798,190,1,23737.5,6,At-Risk Customers,2
+C100799,345,1,21632.4,4,At-Risk Customers,2
+C100800,126,1,31196.1,8,Potential Loyalists,1
+C100801,88,1,67097.7,10,Potential Loyalists,1
+C100802,223,1,198398.5,10,Price-Sensitive Shoppers,4
+C100803,282,1,70509.6,8,High-Value Loyal Customers,0
+C100804,142,1,92045.0,10,At-Risk Customers,2
+C100805,118,1,71440.2,10,High-Value Loyal Customers,0
+C100806,309,1,169230.6,8,Price-Sensitive Shoppers,4
+C100807,21,1,32670.6,10,Potential Loyalists,1
+C100808,91,1,47966.4,9,Potential Loyalists,1
+C100809,88,1,220776.0,12,Price-Sensitive Shoppers,4
+C100810,323,1,31825.0,5,New Buyers,3
+C100811,310,1,48068.1,6,New Buyers,3
+C100812,278,1,86632.0,8,High-Value Loyal Customers,0
+C100813,282,1,105454.4,8,High-Value Loyal Customers,0
+C100814,68,1,100696.0,11,Potential Loyalists,1
+C100815,296,1,143316.8,8,At-Risk Customers,2
+C100816,7,1,182227.5,12,Price-Sensitive Shoppers,4
+C100817,214,1,162424.0,10,At-Risk Customers,2
+C100818,257,1,187532.0,10,Price-Sensitive Shoppers,4
+C100819,194,1,167247.0,10,At-Risk Customers,2
+C100820,34,1,231505.5,13,Price-Sensitive Shoppers,4
+C100821,17,1,40500.0,10,Potential Loyalists,1
+C100822,14,1,46113.3,10,Potential Loyalists,1
+C100823,359,1,44123.7,6,New Buyers,3
+C100824,295,1,153640.0,8,At-Risk Customers,2
+C100825,242,1,158530.5,9,High-Value Loyal Customers,0
+C100826,145,1,84465.45,9,Potential Loyalists,1
+C100827,366,1,33636.0,6,New Buyers,3
+C100828,4,1,88502.4,11,High-Value Loyal Customers,0
+C100829,134,1,48468.6,9,High-Value Loyal Customers,0
+C100830,197,1,53591.0,8,High-Value Loyal Customers,0
+C100831,232,1,149328.0,9,At-Risk Customers,2
+C100832,308,1,216303.0,9,Price-Sensitive Shoppers,4
+C100833,311,1,38455.0,6,At-Risk Customers,2
+C100834,50,1,140104.8,12,Potential Loyalists,1
+C100835,352,1,194666.4,9,Price-Sensitive Shoppers,4
+C100836,20,1,96358.4,11,Potential Loyalists,1
+C100837,289,1,76399.95,8,At-Risk Customers,2
+C100838,262,1,75907.85,8,High-Value Loyal Customers,0
+C100839,63,1,83937.5,11,High-Value Loyal Customers,0
+C100840,117,1,78942.4,10,High-Value Loyal Customers,0
+C100841,164,1,107665.25,9,At-Risk Customers,2
+C100842,270,1,51842.4,7,At-Risk Customers,2
+C100843,84,1,22489.6,8,Potential Loyalists,1
+C100844,168,1,42968.35,8,High-Value Loyal Customers,0
+C100845,257,1,81609.6,8,High-Value Loyal Customers,0
+C100846,9,1,152848.8,12,Potential Loyalists,1
+C100847,105,1,647.9,8,New Buyers,3
+C100848,239,1,139302.0,9,At-Risk Customers,2
+C100849,353,1,173369.4,8,At-Risk Customers,2
+C100850,29,1,158945.75,12,Potential Loyalists,1
+C100851,254,1,111374.2,8,At-Risk Customers,2
+C100852,185,1,303709.5,11,Price-Sensitive Shoppers,4
+C100853,212,1,16816.9,7,New Buyers,3
+C100854,242,1,111651.0,8,At-Risk Customers,2
+C100855,74,1,2042.5,9,Potential Loyalists,1
+C100856,302,1,68244.8,7,New Buyers,3
+C100857,210,1,113046.6,10,At-Risk Customers,2
+C100858,62,1,47266.2,10,Potential Loyalists,1
+C100859,171,1,74934.1,9,High-Value Loyal Customers,0
+C100860,57,1,252241.75,13,Price-Sensitive Shoppers,4
+C100861,254,1,148992.25,9,At-Risk Customers,2
+C100862,103,1,10380.65,8,New Buyers,3
+C100863,107,1,96366.1,10,High-Value Loyal Customers,0
+C100864,16,1,29435.2,9,Potential Loyalists,1
+C100865,140,1,78583.5,10,At-Risk Customers,2
+C100866,173,1,27916.0,7,At-Risk Customers,2
+C100867,226,1,195059.2,10,Price-Sensitive Shoppers,4
+C100868,345,1,63450.0,6,At-Risk Customers,2
+C100869,163,1,2644.8,7,New Buyers,3
+C100870,366,1,57510.0,6,New Buyers,3
+C100871,153,1,185154.0,11,Price-Sensitive Shoppers,4
+C100872,286,1,57616.0,7,High-Value Loyal Customers,0
+C100873,180,1,94917.6,9,High-Value Loyal Customers,0
+C100874,345,1,22768.95,5,New Buyers,3
+C100875,80,1,133305.6,11,Potential Loyalists,1
+C100876,342,1,233541.0,9,Price-Sensitive Shoppers,4
+C100877,82,1,28530.0,8,Potential Loyalists,1
+C100878,241,1,38221.2,7,New Buyers,3
+C100879,226,1,19798.0,6,At-Risk Customers,2
+C100880,197,1,9355.5,7,New Buyers,3
+C100881,347,1,112292.8,7,High-Value Loyal Customers,0
+C100882,163,1,27760.9,7,New Buyers,3
+C100883,23,1,43047.0,10,Potential Loyalists,1
+C100884,6,1,45977.6,10,High-Value Loyal Customers,0
+C100885,199,1,61968.6,8,New Buyers,3
+C100886,176,1,39720.6,8,New Buyers,3
+C100887,256,1,152060.75,9,At-Risk Customers,2
+C100888,284,1,168467.2,9,Price-Sensitive Shoppers,4
+C100889,291,1,271432.2,9,Price-Sensitive Shoppers,4
+C100890,23,1,55811.7,10,High-Value Loyal Customers,0
+C100891,249,1,248605.2,10,Price-Sensitive Shoppers,4
+C100892,207,1,46248.5,8,At-Risk Customers,2
+C100893,287,1,294764.0,10,Price-Sensitive Shoppers,4
+C100894,165,1,13452.1,7,New Buyers,3
+C100895,326,1,309489.25,9,Price-Sensitive Shoppers,4
+C100896,206,1,72252.0,9,High-Value Loyal Customers,0
+C100897,258,1,56781.9,7,High-Value Loyal Customers,0
+C100898,267,1,212089.4,10,Price-Sensitive Shoppers,4
+C100899,76,1,94422.0,11,Potential Loyalists,1
+C100900,347,1,169820.1,8,At-Risk Customers,2
+C100901,252,1,179401.0,9,At-Risk Customers,2
+C100902,351,1,9665.35,5,New Buyers,3
+C100903,223,1,2197.8,6,New Buyers,3
+C100904,1,1,46061.5,10,High-Value Loyal Customers,0
+C100905,348,1,32620.8,6,At-Risk Customers,2
+C100906,110,1,96472.8,10,High-Value Loyal Customers,0
+C100907,180,1,13144.0,7,New Buyers,3
+C100908,297,1,46030.05,6,High-Value Loyal Customers,0
+C100909,98,1,56731.2,9,High-Value Loyal Customers,0
+C100910,145,1,224555.0,11,Price-Sensitive Shoppers,4
+C100911,121,1,55864.55,9,High-Value Loyal Customers,0
+C100912,322,1,45780.0,6,New Buyers,3
+C100913,174,1,137033.7,10,High-Value Loyal Customers,0
+C100914,259,1,70241.1,8,High-Value Loyal Customers,0
+C100915,360,1,59260.0,6,At-Risk Customers,2
+C100916,306,1,63520.0,6,High-Value Loyal Customers,0
+C100917,50,1,129248.0,12,Potential Loyalists,1
+C100918,11,1,47704.8,10,High-Value Loyal Customers,0
+C100919,88,1,178959.0,11,Price-Sensitive Shoppers,4
+C100920,146,1,127842.45,10,High-Value Loyal Customers,0
+C100921,326,1,148180.0,8,At-Risk Customers,2
+C100922,64,1,50699.6,10,Potential Loyalists,1
+C100923,83,1,43411.2,9,High-Value Loyal Customers,0
+C100924,267,1,97759.8,8,High-Value Loyal Customers,0
+C100925,53,1,122524.2,12,High-Value Loyal Customers,0
+C100926,230,1,23867.2,6,New Buyers,3
+C100927,84,1,86018.7,10,High-Value Loyal Customers,0
+C100928,314,1,15959.0,5,New Buyers,3
+C100929,197,1,24144.8,7,New Buyers,3
+C100930,113,1,28128.2,8,Potential Loyalists,1
+C100931,282,1,194179.95,10,Price-Sensitive Shoppers,4
+C100932,284,1,26078.4,6,At-Risk Customers,2
+C100933,235,1,100632.0,8,At-Risk Customers,2
+C100934,234,1,99636.0,8,At-Risk Customers,2
+C100935,364,1,225216.0,9,Price-Sensitive Shoppers,4
+C100936,338,1,13715.1,5,New Buyers,3
+C100937,89,1,111798.0,10,Potential Loyalists,1
+C100938,68,1,34701.6,10,Potential Loyalists,1
+C100939,15,1,219215.0,13,Price-Sensitive Shoppers,4
+C100940,354,1,29489.9,5,New Buyers,3
+C100941,129,1,72147.0,10,High-Value Loyal Customers,0
+C100942,249,1,62444.0,7,At-Risk Customers,2
+C100943,356,1,152185.5,8,At-Risk Customers,2
+C100944,293,1,57749.85,6,At-Risk Customers,2
+C100945,248,1,97805.25,8,At-Risk Customers,2
+C100946,227,1,78410.0,8,New Buyers,3
+C100947,292,1,168530.0,8,At-Risk Customers,2
+C100948,284,1,122148.0,9,At-Risk Customers,2
+C100949,43,1,60260.4,10,Potential Loyalists,1
+C100950,253,1,161037.6,9,Price-Sensitive Shoppers,4
+C100951,312,1,232916.4,9,Price-Sensitive Shoppers,4
+C100952,347,1,7707.8,5,New Buyers,3
+C100953,288,1,37381.0,7,New Buyers,3
+C100954,276,1,29259.0,6,New Buyers,3
+C100955,99,1,41633.0,9,High-Value Loyal Customers,0
+C100956,283,1,291472.0,10,Price-Sensitive Shoppers,4
+C100957,1,1,281322.0,13,Price-Sensitive Shoppers,4
+C100958,89,1,118794.3,11,High-Value Loyal Customers,0
+C100959,116,1,74617.75,10,High-Value Loyal Customers,0
+C100960,145,1,77472.0,9,Potential Loyalists,1
+C100961,324,1,237834.0,9,Price-Sensitive Shoppers,4
+C100962,19,1,75286.8,11,Potential Loyalists,1
+C100963,171,1,110794.95,9,High-Value Loyal Customers,0
+C100964,204,1,44816.0,8,At-Risk Customers,2
+C100965,276,1,26999.4,6,New Buyers,3
+C100966,123,1,12825.6,8,Potential Loyalists,1
+C100967,28,1,58194.0,10,Potential Loyalists,1
+C100968,185,1,287097.6,11,Price-Sensitive Shoppers,4
+C100969,177,1,18330.25,7,New Buyers,3
+C100970,291,1,48089.0,6,New Buyers,3
+C100971,291,1,86110.95,7,At-Risk Customers,2
+C100972,351,1,257298.0,9,Price-Sensitive Shoppers,4
+C100973,275,1,46207.8,7,High-Value Loyal Customers,0
+C100974,195,1,78586.75,9,At-Risk Customers,2
+C100975,86,1,152159.6,11,Potential Loyalists,1
+C100976,152,1,134295.0,10,At-Risk Customers,2
+C100977,111,1,245589.25,12,Price-Sensitive Shoppers,4
+C100978,66,1,34440.3,10,Potential Loyalists,1
+C100979,48,1,87520.65,11,Potential Loyalists,1
+C100980,234,1,38579.4,7,New Buyers,3
+C100981,242,1,101153.6,8,High-Value Loyal Customers,0
+C100982,153,1,383810.0,11,Price-Sensitive Shoppers,4
+C100983,286,1,183149.5,10,At-Risk Customers,2
+C100984,271,1,3588.0,6,New Buyers,3
+C100985,107,1,150723.2,11,High-Value Loyal Customers,0
+C100986,61,1,73327.65,11,Potential Loyalists,1
+C100987,349,1,211792.05,9,Price-Sensitive Shoppers,4
+C100988,258,1,72190.5,8,At-Risk Customers,2
+C100989,344,1,139667.75,8,At-Risk Customers,2
+C100990,265,1,8534.4,6,At-Risk Customers,2
+C100991,178,1,22180.8,7,Potential Loyalists,1
+C100992,86,1,109409.6,10,High-Value Loyal Customers,0
+C100993,64,1,6068.8,9,Potential Loyalists,1
+C100994,259,1,132462.0,9,At-Risk Customers,2
+C100995,144,1,154232.0,11,High-Value Loyal Customers,0
+C100996,169,1,16741.8,7,New Buyers,3
+C100997,119,1,194508.8,12,Price-Sensitive Shoppers,4
+C100998,234,1,3475.0,6,New Buyers,3
+C100999,72,1,60451.35,10,Potential Loyalists,1
+C101000,96,1,201878.4,12,Price-Sensitive Shoppers,4
+C101001,43,1,15674.0,9,Potential Loyalists,1
+C101002,20,1,39711.15,10,Potential Loyalists,1
+C101003,82,1,144878.4,11,High-Value Loyal Customers,0
+C101004,129,1,176304.0,11,Price-Sensitive Shoppers,4
+C101005,273,1,42828.0,7,New Buyers,3
+C101006,159,1,105043.0,9,High-Value Loyal Customers,0
+C101007,310,1,81918.0,7,New Buyers,3
+C101008,196,1,30555.0,7,New Buyers,3
+C101009,145,1,160879.2,10,High-Value Loyal Customers,0
+C101010,24,1,107672.0,11,High-Value Loyal Customers,0
+C101011,35,1,141909.1,12,High-Value Loyal Customers,0
+C101012,20,1,145324.35,12,High-Value Loyal Customers,0
+C101013,308,1,20088.0,5,New Buyers,3
+C101014,175,1,42576.0,8,High-Value Loyal Customers,0
+C101015,91,1,228231.0,12,Price-Sensitive Shoppers,4
+C101016,152,1,32194.6,8,New Buyers,3
+C101017,282,1,76019.0,8,At-Risk Customers,2
+C101018,127,1,187212.0,12,Price-Sensitive Shoppers,4
+C101019,197,1,63788.4,9,New Buyers,3
+C101020,218,1,12231.5,6,New Buyers,3
+C101021,101,1,95258.7,10,Potential Loyalists,1
+C101022,281,1,18201.6,6,New Buyers,3
+C101023,350,1,79369.2,7,At-Risk Customers,2
+C101024,106,1,55489.6,9,Potential Loyalists,1
+C101025,54,1,94936.5,11,Potential Loyalists,1
+C101026,214,1,115668.0,10,At-Risk Customers,2
+C101027,29,1,120916.0,12,Potential Loyalists,1
+C101028,84,1,252238.5,12,Price-Sensitive Shoppers,4
+C101029,6,1,246712.5,13,Price-Sensitive Shoppers,4
+C101030,150,1,116409.6,10,At-Risk Customers,2
+C101031,197,1,3408.8,7,New Buyers,3
+C101032,234,1,143136.0,9,High-Value Loyal Customers,0
+C101033,25,1,14576.0,9,Potential Loyalists,1
+C101034,70,1,43174.8,10,High-Value Loyal Customers,0
+C101035,11,1,53453.0,10,High-Value Loyal Customers,0
+C101036,151,1,240960.0,11,Price-Sensitive Shoppers,4
+C101037,310,1,121882.5,8,At-Risk Customers,2
+C101038,346,1,144252.9,8,At-Risk Customers,2
+C101039,166,1,38972.5,8,High-Value Loyal Customers,0
+C101040,126,1,17955.0,8,Potential Loyalists,1
+C101041,232,1,11917.0,6,At-Risk Customers,2
+C101042,356,1,74578.8,7,New Buyers,3
+C101043,226,1,161019.75,9,High-Value Loyal Customers,0
+C101044,200,1,24226.2,7,New Buyers,3
+C101045,241,1,29970.15,6,New Buyers,3
+C101046,353,1,30525.2,5,New Buyers,3
+C101047,298,1,29689.2,5,New Buyers,3
+C101048,54,1,146604.6,12,Potential Loyalists,1
+C101049,249,1,20140.0,6,At-Risk Customers,2
+C101050,154,1,41306.4,8,High-Value Loyal Customers,0
+C101051,299,1,140601.9,8,At-Risk Customers,2
+C101052,172,1,226062.0,11,Price-Sensitive Shoppers,4
+C101053,281,1,4728.0,6,New Buyers,3
+C101054,311,1,85663.8,7,New Buyers,3
+C101055,129,1,242186.25,12,Price-Sensitive Shoppers,4
+C101056,166,1,172091.0,10,Price-Sensitive Shoppers,4
+C101057,117,1,1428.0,8,Potential Loyalists,1
+C101058,311,1,68656.2,7,At-Risk Customers,2
+C101059,110,1,55842.45,9,Potential Loyalists,1
+C101060,169,1,100566.9,9,High-Value Loyal Customers,0
+C101061,171,1,147345.0,10,High-Value Loyal Customers,0
+C101062,104,1,168278.4,11,High-Value Loyal Customers,0
+C101063,131,1,168227.2,11,Price-Sensitive Shoppers,4
+C101064,186,1,80292.0,9,High-Value Loyal Customers,0
+C101065,125,1,40227.3,9,High-Value Loyal Customers,0
+C101066,220,1,14956.2,6,New Buyers,3
+C101067,101,1,57204.25,9,High-Value Loyal Customers,0
+C101068,188,1,18623.0,7,New Buyers,3
+C101069,25,1,34102.8,10,Potential Loyalists,1
+C101070,209,1,2077.65,7,New Buyers,3
+C101071,302,1,55225.0,6,High-Value Loyal Customers,0
+C101072,184,1,60683.2,8,High-Value Loyal Customers,0
+C101073,107,1,306168.0,12,Price-Sensitive Shoppers,4
+C101074,132,1,135129.6,11,High-Value Loyal Customers,0
+C101075,350,1,319600.0,9,Price-Sensitive Shoppers,4
+C101076,84,1,11538.7,8,Potential Loyalists,1
+C101077,303,1,22913.6,5,New Buyers,3
+C101078,8,1,104840.7,11,Potential Loyalists,1
+C101079,223,1,9044.1,6,New Buyers,3
+C101080,84,1,119756.0,11,Potential Loyalists,1
+C101081,197,1,79643.2,9,High-Value Loyal Customers,0
+C101082,40,1,228108.0,13,Price-Sensitive Shoppers,4
+C101083,117,1,323478.0,12,Price-Sensitive Shoppers,4
+C101084,348,1,119392.8,8,At-Risk Customers,2
+C101085,291,1,266000.4,9,Price-Sensitive Shoppers,4
+C101086,239,1,167844.0,9,At-Risk Customers,2
+C101087,184,1,133512.0,10,High-Value Loyal Customers,0
+C101088,256,1,191394.6,10,Price-Sensitive Shoppers,4
+C101089,243,1,393660.0,10,Price-Sensitive Shoppers,4
+C101090,192,1,140634.0,10,High-Value Loyal Customers,0
+C101091,120,1,74056.8,10,Potential Loyalists,1
+C101092,244,1,78385.3,8,High-Value Loyal Customers,0
+C101093,178,1,48176.1,8,High-Value Loyal Customers,0
+C101094,108,1,234339.2,12,Price-Sensitive Shoppers,4
+C101095,96,1,63108.8,9,High-Value Loyal Customers,0
+C101096,333,1,185337.6,9,Price-Sensitive Shoppers,4
+C101097,196,1,96824.0,9,At-Risk Customers,2
+C101098,201,1,48607.25,8,At-Risk Customers,2
+C101099,182,1,90953.0,9,High-Value Loyal Customers,0
+C101100,142,1,47340.75,9,Potential Loyalists,1
+C101101,55,1,123781.2,12,Potential Loyalists,1
+C101102,54,1,103432.0,11,High-Value Loyal Customers,0
+C101103,274,1,14041.0,6,New Buyers,3
+C101104,41,1,257103.0,13,Price-Sensitive Shoppers,4
+C101105,341,1,76764.0,7,At-Risk Customers,2
+C101106,153,1,55129.5,8,High-Value Loyal Customers,0
+C101107,318,1,76930.0,7,High-Value Loyal Customers,0
+C101108,53,1,130572.0,12,Potential Loyalists,1
+C101109,2,1,59061.4,10,High-Value Loyal Customers,0
+C101110,77,1,7011.2,8,Potential Loyalists,1
+C101111,361,1,59309.1,6,High-Value Loyal Customers,0
+C101112,4,1,337360.75,13,Price-Sensitive Shoppers,4
+C101113,251,1,63741.5,8,High-Value Loyal Customers,0
+C101114,196,1,70657.95,9,At-Risk Customers,2
+C101115,269,1,54444.8,7,At-Risk Customers,2
+C101116,359,1,34777.6,6,New Buyers,3
+C101117,101,1,9285.0,8,Potential Loyalists,1
+C101118,167,1,82895.4,9,High-Value Loyal Customers,0
+C101119,145,1,100084.8,9,High-Value Loyal Customers,0
+C101120,238,1,103983.2,8,High-Value Loyal Customers,0
+C101121,361,1,128935.8,8,High-Value Loyal Customers,0
+C101122,235,1,85384.2,8,At-Risk Customers,2
+C101123,159,1,4428.9,7,Potential Loyalists,1
+C101124,236,1,249534.6,10,Price-Sensitive Shoppers,4
+C101125,18,1,312113.0,13,Price-Sensitive Shoppers,4
+C101126,12,1,227521.2,13,Price-Sensitive Shoppers,4
+C101127,326,1,31228.4,5,At-Risk Customers,2
+C101128,362,1,43027.2,6,New Buyers,3
+C101129,27,1,203742.45,13,Price-Sensitive Shoppers,4
+C101130,206,1,43752.9,8,High-Value Loyal Customers,0
+C101131,16,1,188178.0,13,Price-Sensitive Shoppers,4
+C101132,231,1,50153.4,7,High-Value Loyal Customers,0
+C101133,18,1,40384.0,10,Potential Loyalists,1
+C101134,304,1,62316.9,6,High-Value Loyal Customers,0
+C101135,206,1,132758.4,10,High-Value Loyal Customers,0
+C101136,306,1,68848.0,7,New Buyers,3
+C101137,267,1,257160.0,10,Price-Sensitive Shoppers,4
+C101138,230,1,239682.0,10,Price-Sensitive Shoppers,4
+C101139,231,1,1336.2,6,At-Risk Customers,2
+C101140,202,1,61456.0,8,At-Risk Customers,2
+C101141,31,1,149208.0,12,High-Value Loyal Customers,0
+C101142,136,1,145036.0,11,At-Risk Customers,2
+C101143,78,1,315880.0,12,Price-Sensitive Shoppers,4
+C101144,182,1,29558.75,7,At-Risk Customers,2
+C101145,173,1,34819.2,8,New Buyers,3
+C101146,223,1,80015.0,8,At-Risk Customers,2
+C101147,361,1,139680.0,8,At-Risk Customers,2
+C101148,211,1,99406.1,9,High-Value Loyal Customers,0
+C101149,352,1,27721.95,5,New Buyers,3
+C101150,227,1,22814.25,6,New Buyers,3
+C101151,238,1,149682.0,9,At-Risk Customers,2
+C101152,56,1,309768.0,13,Price-Sensitive Shoppers,4
+C101153,49,1,4807.6,9,Potential Loyalists,1
+C101154,271,1,35356.15,7,New Buyers,3
+C101155,364,1,85365.0,7,New Buyers,3
+C101156,365,1,33294.4,6,New Buyers,3
+C101157,208,1,242752.0,11,Price-Sensitive Shoppers,4
+C101158,266,1,768.4,6,New Buyers,3
+C101159,241,1,66027.6,8,New Buyers,3
+C101160,102,1,311211.0,12,Price-Sensitive Shoppers,4
+C101161,323,1,74802.0,7,High-Value Loyal Customers,0
+C101162,213,1,9851.2,7,New Buyers,3
+C101163,233,1,15733.8,6,New Buyers,3
+C101164,38,1,312385.5,13,Price-Sensitive Shoppers,4
+C101165,316,1,127897.8,8,High-Value Loyal Customers,0
+C101166,13,1,92668.7,11,High-Value Loyal Customers,0
+C101167,311,1,70364.7,7,At-Risk Customers,2
+C101168,205,1,33046.2,8,New Buyers,3
+C101169,27,1,149777.0,12,Potential Loyalists,1
+C101170,53,1,69079.5,11,Potential Loyalists,1
+C101171,362,1,4036.0,5,At-Risk Customers,2
+C101172,358,1,68279.35,7,High-Value Loyal Customers,0
+C101173,336,1,53433.6,6,High-Value Loyal Customers,0
+C101174,125,1,26909.3,8,New Buyers,3
+C101175,197,1,57820.8,8,High-Value Loyal Customers,0
+C101176,366,1,16935.2,5,New Buyers,3
+C101177,257,1,60102.0,7,At-Risk Customers,2
+C101178,247,1,142272.0,9,At-Risk Customers,2
+C101179,99,1,167030.1,11,High-Value Loyal Customers,0
+C101180,259,1,23337.0,6,New Buyers,3
+C101181,236,1,159009.5,9,At-Risk Customers,2
+C101182,291,1,50668.5,6,New Buyers,3
+C101183,328,1,164128.2,8,Price-Sensitive Shoppers,4
+C101184,340,1,85458.2,7,At-Risk Customers,2
+C101185,7,1,104495.6,11,High-Value Loyal Customers,0
+C101186,24,1,145102.0,12,High-Value Loyal Customers,0
+C101187,204,1,274750.0,11,Price-Sensitive Shoppers,4
+C101188,38,1,59114.7,10,High-Value Loyal Customers,0
+C101189,167,1,47644.2,8,Potential Loyalists,1
+C101190,119,1,49590.95,9,High-Value Loyal Customers,0
+C101191,249,1,267735.6,10,Price-Sensitive Shoppers,4
+C101192,357,1,179685.0,8,At-Risk Customers,2
+C101193,33,1,272178.5,13,Price-Sensitive Shoppers,4
+C101194,100,1,8941.0,8,New Buyers,3
+C101195,152,1,81123.15,9,Potential Loyalists,1
+C101196,72,1,54794.1,10,Potential Loyalists,1
+C101197,24,1,3667.2,9,Potential Loyalists,1
+C101198,38,1,156758.4,12,Potential Loyalists,1
+C101199,294,1,82170.0,7,At-Risk Customers,2
+C101200,76,1,35673.6,11,Potential Loyalists,1
+C101201,274,1,129384.0,10,High-Value Loyal Customers,0
+C101202,328,1,300785.25,10,Price-Sensitive Shoppers,4
+C101203,137,1,7012.9,9,New Buyers,3
+C101204,336,1,51797.3,7,New Buyers,3
+C101205,366,1,23336.0,6,New Buyers,3
+C101206,26,1,271741.6,14,Price-Sensitive Shoppers,4
+C101207,119,1,226630.8,13,Price-Sensitive Shoppers,4
+C101208,104,1,168752.0,12,Price-Sensitive Shoppers,4
+C101209,45,1,338193.0,14,Price-Sensitive Shoppers,4
+C101210,282,1,77848.0,9,At-Risk Customers,2
+C101211,146,1,124500.0,11,At-Risk Customers,2
+C101212,199,1,156944.0,11,Price-Sensitive Shoppers,4
+C101213,321,1,143145.0,9,At-Risk Customers,2
+C101214,165,1,147084.0,11,High-Value Loyal Customers,0
+C101215,161,1,187450.0,12,Price-Sensitive Shoppers,4
+C101216,235,1,45328.8,8,New Buyers,3
+C101217,10,1,162061.0,13,Potential Loyalists,1
+C101218,24,1,102642.6,12,High-Value Loyal Customers,0
+C101219,213,1,81846.3,10,High-Value Loyal Customers,0
+C101220,353,1,79581.25,8,At-Risk Customers,2
+C101221,117,1,66465.0,11,Potential Loyalists,1
+C101222,164,1,216379.4,12,Price-Sensitive Shoppers,4
+C101223,340,1,193504.5,10,At-Risk Customers,2
+C101224,255,1,338562.0,11,Price-Sensitive Shoppers,4
+C101225,43,1,143172.0,13,Potential Loyalists,1
+C101226,166,1,283806.0,12,Price-Sensitive Shoppers,4
+C101227,207,1,60435.0,9,At-Risk Customers,2
+C101228,76,1,126641.5,13,Potential Loyalists,1
+C101229,32,1,31006.8,10,Potential Loyalists,1
+C101230,229,1,186816.0,11,Price-Sensitive Shoppers,4
+C101231,212,1,90489.4,10,At-Risk Customers,2
+C101232,203,1,84587.4,10,High-Value Loyal Customers,0
+C101233,240,1,9350.0,7,New Buyers,3
+C101234,14,1,37055.0,11,Potential Loyalists,1
+C101235,20,1,238266.0,14,Price-Sensitive Shoppers,4
+C101236,109,1,260167.0,13,Price-Sensitive Shoppers,4
+C101237,248,1,3376.0,7,At-Risk Customers,2
+C101238,270,1,28891.2,7,New Buyers,3
+C101239,282,1,62833.0,8,At-Risk Customers,2
+C101240,235,1,31072.5,7,New Buyers,3
+C101241,234,1,210291.0,11,Price-Sensitive Shoppers,4
+C101242,164,1,301063.5,12,Price-Sensitive Shoppers,4
+C101243,154,1,106753.2,10,High-Value Loyal Customers,0
+C101244,160,1,2660.95,8,New Buyers,3
+C101245,41,1,125844.3,13,Potential Loyalists,1
+C101246,288,1,261136.0,11,Price-Sensitive Shoppers,4
+C101247,26,1,104110.0,12,Potential Loyalists,1
+C101248,160,1,7356.8,8,Potential Loyalists,1
+C101249,156,1,353713.5,12,Price-Sensitive Shoppers,4
+C101250,353,1,104984.0,8,At-Risk Customers,2
+C101251,100,1,243600.0,13,Price-Sensitive Shoppers,4
+C101252,231,1,98539.2,9,At-Risk Customers,2
+C101253,238,1,19308.6,7,New Buyers,3
+C101254,55,1,180168.0,13,Price-Sensitive Shoppers,4
+C101255,265,1,155066.6,10,At-Risk Customers,2
+C101256,63,1,167028.0,13,High-Value Loyal Customers,0
+C101257,295,1,33643.2,7,New Buyers,3
+C101258,77,1,42716.7,10,High-Value Loyal Customers,0
+C101259,281,1,56449.95,8,High-Value Loyal Customers,0
+C101260,71,1,70689.4,12,High-Value Loyal Customers,0
+C101261,357,1,42460.0,7,New Buyers,3
+C101262,225,1,93325.0,9,At-Risk Customers,2
+C101263,183,1,163747.2,11,Price-Sensitive Shoppers,4
+C101264,328,1,95497.5,8,High-Value Loyal Customers,0
+C101265,327,1,111885.0,8,At-Risk Customers,2
+C101266,269,1,67324.0,9,High-Value Loyal Customers,0
+C101267,63,1,77282.0,12,Potential Loyalists,1
+C101268,20,1,234470.8,14,Price-Sensitive Shoppers,4
+C101269,28,1,148336.0,13,High-Value Loyal Customers,0
+C101270,40,1,276984.0,14,Price-Sensitive Shoppers,4
+C101271,196,1,164079.0,11,High-Value Loyal Customers,0
+C101272,132,1,4177.6,9,Potential Loyalists,1
+C101273,137,1,195299.4,13,Price-Sensitive Shoppers,4
+C101274,24,1,88693.2,12,Potential Loyalists,1
+C101275,165,1,16121.6,8,New Buyers,3
+C101276,210,1,184042.8,12,Price-Sensitive Shoppers,4
+C101277,45,1,38722.95,11,High-Value Loyal Customers,0
+C101278,236,1,220152.0,11,Price-Sensitive Shoppers,4
+C101279,150,1,174984.0,11,Price-Sensitive Shoppers,4
+C101280,337,1,43981.2,7,New Buyers,3
+C101281,278,1,21935.5,7,New Buyers,3
+C101282,48,1,61615.65,11,High-Value Loyal Customers,0
+C101283,65,1,85680.0,12,High-Value Loyal Customers,0
+C101284,36,1,55162.7,11,High-Value Loyal Customers,0
+C101285,2,1,5931.9,10,Potential Loyalists,1
+C101286,259,1,238765.5,11,Price-Sensitive Shoppers,4
+C101287,173,1,122584.0,11,High-Value Loyal Customers,0
+C101288,64,1,40108.5,11,Potential Loyalists,1
+C101289,334,1,122724.0,9,At-Risk Customers,2
+C101290,305,1,36014.4,7,New Buyers,3
+C101291,328,1,269330.4,10,Price-Sensitive Shoppers,4
+C101292,333,1,110060.8,8,At-Risk Customers,2
+C101293,341,1,254760.0,10,Price-Sensitive Shoppers,4
+C101294,271,1,85713.0,9,At-Risk Customers,2
+C101295,5,1,221673.0,14,Price-Sensitive Shoppers,4
+C101296,261,1,7883.1,7,New Buyers,3
+C101297,143,1,23236.0,9,Potential Loyalists,1
+C101298,182,1,77852.5,10,High-Value Loyal Customers,0
+C101299,202,1,246592.8,12,Price-Sensitive Shoppers,4
+C101300,359,1,219652.0,10,Price-Sensitive Shoppers,4
+C101301,263,1,60526.8,8,At-Risk Customers,2
+C101302,80,1,52463.7,10,Potential Loyalists,1
+C101303,16,1,102636.0,12,High-Value Loyal Customers,0
+C101304,275,1,82345.6,9,High-Value Loyal Customers,0
+C101305,45,1,141449.4,13,High-Value Loyal Customers,0
+C101306,315,1,2142.0,6,At-Risk Customers,2
+C101307,88,1,33053.6,10,High-Value Loyal Customers,0
+C101308,352,1,28107.8,6,New Buyers,3
+C101309,83,1,183672.0,13,Price-Sensitive Shoppers,4
+C101310,182,1,83759.0,10,At-Risk Customers,2
+C101311,112,1,45922.1,10,Potential Loyalists,1
+C101312,121,1,43187.95,10,High-Value Loyal Customers,0
+C101313,47,1,56399.2,11,Potential Loyalists,1
+C101314,311,1,55300.0,7,High-Value Loyal Customers,0
+C101315,201,1,103120.0,10,High-Value Loyal Customers,0
+C101316,167,1,141646.5,11,At-Risk Customers,2
+C101317,77,1,274064.0,13,Price-Sensitive Shoppers,4
+C101318,195,1,212884.2,12,Price-Sensitive Shoppers,4
+C101319,98,1,37154.0,10,High-Value Loyal Customers,0
+C101320,294,1,192021.6,10,Price-Sensitive Shoppers,4
+C101321,63,1,44244.2,11,High-Value Loyal Customers,0
+C101322,141,1,37312.0,10,High-Value Loyal Customers,0
+C101323,355,1,200504.0,10,At-Risk Customers,2
+C101324,332,1,134953.2,9,High-Value Loyal Customers,0
+C101325,28,1,103757.8,12,High-Value Loyal Customers,0
+C101326,350,1,246798.0,10,Price-Sensitive Shoppers,4
+C101327,218,1,34118.0,8,New Buyers,3
+C101328,235,1,119740.5,10,At-Risk Customers,2
+C101329,223,1,25279.0,7,At-Risk Customers,2
+C101330,256,1,226960.2,11,Price-Sensitive Shoppers,4
+C101331,147,1,106061.4,10,High-Value Loyal Customers,0
+C101332,113,1,94360.0,11,High-Value Loyal Customers,0
+C101333,13,1,39278.0,11,Potential Loyalists,1
+C101334,259,1,143096.6,10,At-Risk Customers,2
+C101335,273,1,21969.0,7,New Buyers,3
+C101336,318,1,54008.1,7,High-Value Loyal Customers,0
+C101337,135,1,284604.8,13,Price-Sensitive Shoppers,4
+C101338,313,1,179482.5,9,Price-Sensitive Shoppers,4
+C101339,54,1,45359.65,11,High-Value Loyal Customers,0
+C101340,253,1,291069.0,11,Price-Sensitive Shoppers,4
+C101341,339,1,46574.0,7,New Buyers,3
+C101342,133,1,34344.4,10,Potential Loyalists,1
+C101343,56,1,121123.2,13,High-Value Loyal Customers,0
+C101344,308,1,139548.0,9,High-Value Loyal Customers,0
+C101345,339,1,73009.4,8,New Buyers,3
+C101346,136,1,18103.3,9,New Buyers,3
+C101347,213,1,136781.0,11,At-Risk Customers,2
+C101348,132,1,152366.4,12,High-Value Loyal Customers,0
+C101349,289,1,137335.5,10,At-Risk Customers,2
+C101350,36,1,111253.1,12,High-Value Loyal Customers,0
+C101351,306,1,38300.2,7,At-Risk Customers,2
+C101352,133,1,125535.6,12,Potential Loyalists,1
+C101353,124,1,258127.2,13,Price-Sensitive Shoppers,4
+C101354,355,1,6063.0,6,New Buyers,3
+C101355,200,1,40692.0,9,At-Risk Customers,2
+C101356,5,1,17207.4,10,Potential Loyalists,1
+C101357,355,1,64659.5,8,New Buyers,3
+C101358,117,1,47187.9,10,Potential Loyalists,1
+C101359,201,1,114283.2,11,High-Value Loyal Customers,0
+C101360,315,1,112492.0,8,High-Value Loyal Customers,0
+C101361,135,1,138716.8,12,At-Risk Customers,2
+C101362,244,1,236313.0,11,Price-Sensitive Shoppers,4
+C101363,252,1,139514.0,10,High-Value Loyal Customers,0
+C101364,283,1,9081.0,7,New Buyers,3
+C101365,261,1,91589.4,9,At-Risk Customers,2
+C101366,126,1,26157.6,9,Potential Loyalists,1
+C101367,18,1,71661.6,12,Potential Loyalists,1
+C101368,165,1,65703.0,10,Potential Loyalists,1
+C101369,252,1,143374.6,10,At-Risk Customers,2
+C101370,30,1,113051.2,13,High-Value Loyal Customers,0
+C101371,284,1,190089.6,11,Price-Sensitive Shoppers,4
+C101372,217,1,245016.4,11,Price-Sensitive Shoppers,4
+C101373,82,1,310985.0,13,Price-Sensitive Shoppers,4
+C101374,302,1,76430.4,8,At-Risk Customers,2
+C101375,171,1,156648.2,11,Price-Sensitive Shoppers,4
+C101376,51,1,234889.4,14,Price-Sensitive Shoppers,4
+C101377,92,1,257421.6,13,Price-Sensitive Shoppers,4
+C101378,74,1,167421.6,13,High-Value Loyal Customers,0
+C101379,358,1,137720.0,9,At-Risk Customers,2
+C101380,64,1,18356.0,10,Potential Loyalists,1
+C101381,24,1,331331.5,14,Price-Sensitive Shoppers,4
+C101382,181,1,245128.5,12,Price-Sensitive Shoppers,4
+C101383,291,1,42661.0,7,New Buyers,3
+C101384,319,1,205288.0,10,Price-Sensitive Shoppers,4
+C101385,267,1,62488.6,8,New Buyers,3
+C101386,192,1,22959.0,8,At-Risk Customers,2
+C101387,322,1,51982.1,7,New Buyers,3
+C101388,85,1,107733.8,11,Potential Loyalists,1
+C101389,161,1,135664.2,11,High-Value Loyal Customers,0
+C101390,272,1,32182.2,7,New Buyers,3
+C101391,337,1,14135.0,6,New Buyers,3
+C101392,118,1,143820.0,12,Potential Loyalists,1
+C101393,215,1,62994.35,9,High-Value Loyal Customers,0
+C101394,113,1,151899.25,12,At-Risk Customers,2
+C101395,78,1,27237.6,9,Potential Loyalists,1
+C101396,132,1,66726.4,11,Potential Loyalists,1
+C101397,3,1,127410.2,13,Potential Loyalists,1
+C101398,228,1,293649.75,11,Price-Sensitive Shoppers,4
+C101399,185,1,36534.0,9,Potential Loyalists,1
+C101400,150,1,70980.2,10,High-Value Loyal Customers,0
+C101401,350,1,1549.0,6,New Buyers,3
+C101402,323,1,9057.3,6,New Buyers,3
+C101403,32,1,42192.0,11,Potential Loyalists,1
+C101404,285,1,215024.0,11,Price-Sensitive Shoppers,4
+C101405,91,1,20845.4,9,Potential Loyalists,1
+C101406,65,1,55053.0,11,High-Value Loyal Customers,0
+C101407,258,1,6768.0,7,At-Risk Customers,2
+C101408,145,1,24993.0,8,Potential Loyalists,1
+C101409,123,1,223400.0,13,Price-Sensitive Shoppers,4
+C101410,82,1,267296.75,13,Price-Sensitive Shoppers,4
+C101411,47,1,66045.0,12,Potential Loyalists,1
+C101412,192,1,196585.4,12,Price-Sensitive Shoppers,4
+C101413,131,1,118084.0,12,High-Value Loyal Customers,0
+C101414,283,1,267029.2,11,Price-Sensitive Shoppers,4
+C101415,334,1,25732.8,6,New Buyers,3
+C101416,254,1,53577.15,8,New Buyers,3
+C101417,214,1,1864.05,8,New Buyers,3
+C101418,123,1,11156.4,9,Potential Loyalists,1
+C101419,316,1,173274.2,9,At-Risk Customers,2
+C101420,178,1,57336.3,9,High-Value Loyal Customers,0
+C101421,357,1,372.3,6,New Buyers,3
+C101422,339,1,49620.0,7,New Buyers,3
+C101423,279,1,22277.6,7,New Buyers,3
+C101424,157,1,26349.6,8,Potential Loyalists,1
+C101425,323,1,42684.45,7,New Buyers,3
+C101426,308,1,86164.8,8,High-Value Loyal Customers,0
+C101427,49,1,25743.95,10,Potential Loyalists,1
+C101428,232,1,76660.0,9,New Buyers,3
+C101429,363,1,10561.15,6,New Buyers,3
+C101430,212,1,20236.0,8,At-Risk Customers,2
+C101431,190,1,114469.5,11,High-Value Loyal Customers,0
+C101432,280,1,171007.25,10,At-Risk Customers,2
+C101433,7,1,49876.8,11,Potential Loyalists,1
+C101434,53,1,129765.6,13,High-Value Loyal Customers,0
+C101435,41,1,299088.0,14,Price-Sensitive Shoppers,4
+C101436,187,1,22307.2,8,New Buyers,3
+C101437,59,1,182525.4,14,Price-Sensitive Shoppers,4
+C101438,238,1,123108.0,10,High-Value Loyal Customers,0
+C101439,251,1,90002.25,9,At-Risk Customers,2
+C101440,165,1,62547.0,9,High-Value Loyal Customers,0
+C101441,214,1,92592.0,10,At-Risk Customers,2
+C101442,295,1,216797.6,10,Price-Sensitive Shoppers,4
+C101443,189,1,187631.55,12,Price-Sensitive Shoppers,4
+C101444,202,1,148656.5,11,At-Risk Customers,2
+C101445,232,1,106484.6,9,At-Risk Customers,2
+C101446,152,1,107240.0,10,At-Risk Customers,2
+C101447,19,1,89102.4,12,Potential Loyalists,1
+C101448,99,1,67724.6,11,High-Value Loyal Customers,0
+C101449,306,1,187339.5,10,Price-Sensitive Shoppers,4
+C101450,183,1,345280.5,12,Price-Sensitive Shoppers,4
+C101451,147,1,2062.8,8,New Buyers,3
+C101452,296,1,44168.4,7,New Buyers,3
+C101453,119,1,176697.6,12,Price-Sensitive Shoppers,4
+C101454,51,1,47987.1,11,Potential Loyalists,1
+C101455,210,1,113420.0,11,At-Risk Customers,2
+C101456,362,1,214835.8,10,Price-Sensitive Shoppers,4
+C101457,72,1,42427.0,11,Potential Loyalists,1
+C101458,279,1,281558.25,11,Price-Sensitive Shoppers,4
+C101459,355,1,275132.0,10,Price-Sensitive Shoppers,4
+C101460,243,1,193414.95,11,Price-Sensitive Shoppers,4
+C101461,180,1,17564.4,8,New Buyers,3
+C101462,90,1,48977.1,10,High-Value Loyal Customers,0
+C101463,109,1,157312.0,12,Price-Sensitive Shoppers,4
+C101464,100,1,197463.5,13,Price-Sensitive Shoppers,4
+C101465,206,1,52568.1,9,High-Value Loyal Customers,0
+C101466,230,1,87086.75,9,At-Risk Customers,2
+C101467,53,1,124589.6,13,Potential Loyalists,1
+C101468,335,1,132631.2,9,High-Value Loyal Customers,0
+C101469,130,1,44269.0,10,High-Value Loyal Customers,0
+C101470,110,1,192939.3,13,Price-Sensitive Shoppers,4
+C101471,277,1,22817.1,7,New Buyers,3
+C101472,116,1,171450.0,12,Price-Sensitive Shoppers,4
+C101473,56,1,255782.75,14,Price-Sensitive Shoppers,4
+C101474,29,1,1574.4,10,Potential Loyalists,1
+C101475,130,1,122683.0,12,Potential Loyalists,1
+C101476,135,1,126393.6,12,At-Risk Customers,2
+C101477,166,1,87771.0,10,Potential Loyalists,1
+C101478,290,1,7841.25,6,New Buyers,3
+C101479,309,1,18288.0,6,At-Risk Customers,2
+C101480,198,1,117768.0,11,High-Value Loyal Customers,0
+C101481,95,1,19166.4,9,Potential Loyalists,1
+C101482,159,1,127538.0,11,High-Value Loyal Customers,0
+C101483,29,1,169588.8,13,High-Value Loyal Customers,0
+C101484,275,1,11554.0,7,New Buyers,3
+C101485,298,1,92069.25,8,At-Risk Customers,2
+C101486,42,1,130950.0,13,Potential Loyalists,1
+C101487,83,1,122330.0,12,High-Value Loyal Customers,0
+C101488,289,1,7526.7,7,New Buyers,3
+C101489,331,1,146145.6,9,At-Risk Customers,2
+C101490,178,1,88714.8,10,At-Risk Customers,2
+C101491,273,1,30754.0,7,New Buyers,3
+C101492,268,1,119429.1,10,At-Risk Customers,2
+C101493,326,1,243295.5,10,Price-Sensitive Shoppers,4
+C101494,66,1,32233.7,11,Potential Loyalists,1
+C101495,179,1,78448.0,10,High-Value Loyal Customers,0
+C101496,141,1,33488.0,10,High-Value Loyal Customers,0
+C101497,181,1,64804.0,10,High-Value Loyal Customers,0
+C101498,77,1,9910.4,9,Potential Loyalists,1
+C101499,173,1,15484.5,8,New Buyers,3
+C101500,184,1,114255.0,11,At-Risk Customers,2
+C101501,202,1,85924.8,10,At-Risk Customers,2
+C101502,111,1,86309.4,11,Potential Loyalists,1
+C101503,19,1,118470.0,13,Potential Loyalists,1
+C101504,135,1,183254.4,13,Price-Sensitive Shoppers,4
+C101505,324,1,28963.2,6,New Buyers,3
+C101506,76,1,274084.0,14,Price-Sensitive Shoppers,4
+C101507,289,1,204688.0,11,Price-Sensitive Shoppers,4
+C101508,29,1,282739.75,14,Price-Sensitive Shoppers,4
+C101509,12,1,314383.5,14,Price-Sensitive Shoppers,4
+C101510,63,1,29941.6,10,High-Value Loyal Customers,0
+C101511,249,1,3936.0,7,New Buyers,3
+C101512,245,1,6714.4,7,New Buyers,3
+C101513,164,1,164304.0,11,Price-Sensitive Shoppers,4
+C101514,316,1,140922.0,9,High-Value Loyal Customers,0
+C101515,326,1,121472.0,9,At-Risk Customers,2
+C101516,180,1,286991.2,12,Price-Sensitive Shoppers,4
+C101517,340,1,14922.9,6,New Buyers,3
+C101518,258,1,325831.0,11,Price-Sensitive Shoppers,4
+C101519,335,1,107555.2,8,At-Risk Customers,2
+C101520,238,1,52165.6,8,High-Value Loyal Customers,0
+C101521,250,1,64362.5,9,New Buyers,3
+C101522,182,1,77499.0,10,High-Value Loyal Customers,0
+C101523,269,1,107687.25,9,At-Risk Customers,2
+C101524,152,1,51874.65,9,Potential Loyalists,1
+C101525,165,1,45578.7,9,High-Value Loyal Customers,0
+C101526,100,1,227516.8,13,Price-Sensitive Shoppers,4
+C101527,158,1,360385.0,12,Price-Sensitive Shoppers,4
+C101528,114,1,144914.4,12,High-Value Loyal Customers,0
+C101529,265,1,28265.0,7,New Buyers,3
+C101530,261,1,106402.5,9,At-Risk Customers,2
+C101531,11,1,116648.9,13,High-Value Loyal Customers,0
+C101532,219,1,2822.4,7,New Buyers,3
+C101533,52,1,101604.75,12,Potential Loyalists,1
+C101534,203,1,114025.6,11,At-Risk Customers,2
+C101535,58,1,6590.4,10,Potential Loyalists,1
+C101536,132,1,347620.5,13,Price-Sensitive Shoppers,4
+C101537,362,1,176697.15,9,Price-Sensitive Shoppers,4
+C101538,339,1,136702.8,9,High-Value Loyal Customers,0
+C101539,335,1,78445.3,8,New Buyers,3
+C101540,180,1,142473.4,11,High-Value Loyal Customers,0
+C101541,58,1,33406.4,11,Potential Loyalists,1
+C101542,104,1,125002.8,12,High-Value Loyal Customers,0
+C101543,106,1,82395.6,11,Potential Loyalists,1
+C101544,50,1,85437.3,12,High-Value Loyal Customers,0
+C101545,127,1,34452.2,10,High-Value Loyal Customers,0
+C101546,280,1,180194.1,10,Price-Sensitive Shoppers,4
+C101547,159,1,13234.45,8,New Buyers,3
+C101548,246,1,9341.5,7,New Buyers,3
+C101549,42,1,38412.3,11,Potential Loyalists,1
+C101550,291,1,111336.4,8,At-Risk Customers,2
+C101551,268,1,20047.25,7,New Buyers,3
+C101552,348,1,222262.0,10,Price-Sensitive Shoppers,4
+C101553,46,1,96055.2,12,Potential Loyalists,1
+C101554,130,1,8996.4,9,New Buyers,3
+C101555,226,1,203709.6,11,Price-Sensitive Shoppers,4
+C101556,117,1,94797.6,11,Potential Loyalists,1
+C101557,8,1,154005.6,13,High-Value Loyal Customers,0
+C101558,260,1,80767.1,9,New Buyers,3
+C101559,30,1,312330.0,14,Price-Sensitive Shoppers,4
+C101560,165,1,50402.4,9,High-Value Loyal Customers,0
+C101561,277,1,31611.6,7,At-Risk Customers,2
+C101562,336,1,318275.0,10,Price-Sensitive Shoppers,4
+C101563,102,1,329812.75,13,Price-Sensitive Shoppers,4
+C101564,204,1,57858.3,9,High-Value Loyal Customers,0
+C101565,27,1,260844.0,14,Price-Sensitive Shoppers,4
+C101566,141,1,64778.0,11,Potential Loyalists,1
+C101567,299,1,5100.55,6,New Buyers,3
+C101568,272,1,254560.0,11,Price-Sensitive Shoppers,4
+C101569,258,1,54928.0,8,At-Risk Customers,2
+C101570,315,1,119982.6,9,High-Value Loyal Customers,0
+C101571,63,1,90488.0,12,High-Value Loyal Customers,0
+C101572,151,1,39960.0,9,High-Value Loyal Customers,0
+C101573,170,1,18040.0,8,New Buyers,3
+C101574,111,1,63483.3,10,High-Value Loyal Customers,0
+C101575,41,1,51846.0,11,Potential Loyalists,1
+C101576,236,1,73231.2,9,At-Risk Customers,2
+C101577,166,1,71158.0,10,High-Value Loyal Customers,0
+C101578,235,1,131368.35,10,High-Value Loyal Customers,0
+C101579,18,1,309939.75,14,Price-Sensitive Shoppers,4
+C101580,16,1,109009.95,12,Potential Loyalists,1
+C101581,208,1,206728.0,12,Price-Sensitive Shoppers,4
+C101582,281,1,84906.5,9,At-Risk Customers,2
+C101583,354,1,24153.6,6,At-Risk Customers,2
+C101584,108,1,23719.0,9,New Buyers,3
+C101585,131,1,196642.4,13,Price-Sensitive Shoppers,4
+C101586,145,1,131900.4,11,High-Value Loyal Customers,0
+C101587,9,1,103723.2,12,High-Value Loyal Customers,0
+C101588,122,1,36704.7,10,Potential Loyalists,1
+C101589,186,1,90060.0,10,At-Risk Customers,2
+C101590,95,1,396210.0,13,Price-Sensitive Shoppers,4
+C101591,58,1,187616.0,14,Price-Sensitive Shoppers,4
+C101592,3,1,192048.0,14,Price-Sensitive Shoppers,4
+C101593,243,1,29915.2,7,New Buyers,3
+C101594,174,1,31499.2,8,New Buyers,3
+C101595,104,1,190303.2,13,Price-Sensitive Shoppers,4
+C101596,37,1,89402.6,12,Potential Loyalists,1
+C101597,277,1,47382.0,8,New Buyers,3
+C101598,355,1,23539.2,6,At-Risk Customers,2
+C101599,184,1,200434.5,12,Price-Sensitive Shoppers,4
+C101600,81,1,246316.8,14,Price-Sensitive Shoppers,4
+C101601,72,1,17347.65,11,Potential Loyalists,1
+C101602,216,1,12076.2,9,New Buyers,3
+C101603,321,1,23783.4,7,New Buyers,3
+C101604,216,1,34245.65,10,New Buyers,3
+C101605,328,1,73292.8,9,At-Risk Customers,2
+C101606,49,1,269527.5,15,Price-Sensitive Shoppers,4
+C101607,63,1,299003.0,15,Price-Sensitive Shoppers,4
+C101608,211,1,20487.55,9,New Buyers,3
+C101609,91,1,36540.0,11,Potential Loyalists,1
+C101610,229,1,125460.0,11,High-Value Loyal Customers,0
+C101611,219,1,208232.4,12,Price-Sensitive Shoppers,4
+C101612,159,1,80748.0,11,At-Risk Customers,2
+C101613,27,1,96002.25,13,Potential Loyalists,1
+C101614,229,1,59919.9,9,At-Risk Customers,2
+C101615,245,1,157596.0,11,At-Risk Customers,2
+C101616,298,1,209138.4,11,Price-Sensitive Shoppers,4
+C101617,323,1,16016.05,7,New Buyers,3
+C101618,148,1,111162.0,11,High-Value Loyal Customers,0
+C101619,320,1,42399.7,8,New Buyers,3
+C101620,107,1,178502.4,13,Price-Sensitive Shoppers,4
+C101621,341,1,35074.4,8,New Buyers,3
+C101622,17,1,223599.0,15,Price-Sensitive Shoppers,4
+C101623,107,1,67158.0,12,High-Value Loyal Customers,0
+C101624,122,1,187617.0,14,Price-Sensitive Shoppers,4
+C101625,41,1,157111.0,14,Potential Loyalists,1
+C101626,151,1,18460.4,9,New Buyers,3
+C101627,164,1,23697.0,9,Potential Loyalists,1
+C101628,184,1,41974.4,10,At-Risk Customers,2
+C101629,318,1,307734.0,11,Price-Sensitive Shoppers,4
+C101630,203,1,172758.45,12,Price-Sensitive Shoppers,4
+C101631,244,1,214207.2,12,Price-Sensitive Shoppers,4
+C101632,327,1,179769.0,10,Price-Sensitive Shoppers,4
+C101633,243,1,10800.9,8,New Buyers,3
+C101634,340,1,231300.0,11,Price-Sensitive Shoppers,4
+C101635,238,1,153744.0,11,High-Value Loyal Customers,0
+C101636,357,1,8090.0,7,New Buyers,3
+C101637,154,1,68426.7,11,High-Value Loyal Customers,0
+C101638,353,1,188236.8,11,Price-Sensitive Shoppers,4
+C101639,176,1,233160.0,13,Price-Sensitive Shoppers,4
+C101640,117,1,79300.0,12,Potential Loyalists,1
+C101641,90,1,138894.75,13,High-Value Loyal Customers,0
+C101642,129,1,130148.0,13,High-Value Loyal Customers,0
+C101643,261,1,115650.0,11,High-Value Loyal Customers,0
+C101644,59,1,319184.0,15,Price-Sensitive Shoppers,4
+C101645,330,1,234319.5,11,Price-Sensitive Shoppers,4
+C101646,69,1,171469.65,14,High-Value Loyal Customers,0
+C101647,166,1,111911.0,11,At-Risk Customers,2
+C101648,356,1,168141.6,10,At-Risk Customers,2
+C101649,118,1,70335.0,12,High-Value Loyal Customers,0
+C101650,57,1,141405.6,14,High-Value Loyal Customers,0
+C101651,24,1,78910.2,13,Potential Loyalists,1
+C101652,288,1,314720.75,12,Price-Sensitive Shoppers,4
+C101653,93,1,67114.0,12,Potential Loyalists,1
+C101654,173,1,8040.0,9,New Buyers,3
+C101655,203,1,60072.9,10,High-Value Loyal Customers,0
+C101656,106,1,247336.0,14,Price-Sensitive Shoppers,4
+C101657,73,1,3088.8,11,Potential Loyalists,1
+C101658,95,1,137853.0,13,High-Value Loyal Customers,0
+C101659,127,1,111041.7,12,Potential Loyalists,1
+C101660,11,1,17955.0,11,Potential Loyalists,1
+C101661,150,1,189215.0,13,Price-Sensitive Shoppers,4
+C101662,45,1,73128.0,13,Potential Loyalists,1
+C101663,125,1,21460.8,10,Potential Loyalists,1
+C101664,71,1,79902.0,13,Potential Loyalists,1
+C101665,166,1,258833.2,13,Price-Sensitive Shoppers,4
+C101666,256,1,126374.7,11,High-Value Loyal Customers,0
+C101667,277,1,143628.8,11,At-Risk Customers,2
+C101668,208,1,181097.6,12,Price-Sensitive Shoppers,4
+C101669,164,1,101235.0,11,At-Risk Customers,2
+C101670,22,1,126572.4,14,High-Value Loyal Customers,0
+C101671,335,1,155298.6,10,At-Risk Customers,2
+C101672,222,1,33129.9,9,New Buyers,3
+C101673,238,1,150836.4,11,At-Risk Customers,2
+C101674,103,1,110175.3,12,High-Value Loyal Customers,0
+C101675,174,1,22385.7,9,Potential Loyalists,1
+C101676,34,1,68528.7,13,Potential Loyalists,1
+C101677,57,1,78645.6,13,Potential Loyalists,1
+C101678,215,1,225594.0,13,Price-Sensitive Shoppers,4
+C101679,230,1,28062.0,8,New Buyers,3
+C101680,106,1,36759.3,11,Potential Loyalists,1
+C101681,306,1,190710.6,11,Price-Sensitive Shoppers,4
+C101682,99,1,235224.0,14,Price-Sensitive Shoppers,4
+C101683,349,1,47614.95,8,New Buyers,3
+C101684,80,1,30916.8,10,Potential Loyalists,1
+C101685,96,1,68233.75,12,Potential Loyalists,1
+C101686,176,1,21162.0,9,New Buyers,3
+C101687,112,1,211342.5,14,Price-Sensitive Shoppers,4
+C101688,237,1,104960.0,10,High-Value Loyal Customers,0
+C101689,68,1,136110.6,14,High-Value Loyal Customers,0
+C101690,90,1,18868.8,10,Potential Loyalists,1
+C101691,306,1,115660.8,10,At-Risk Customers,2
+C101692,60,1,80814.6,13,Potential Loyalists,1
+C101693,251,1,187417.6,12,Price-Sensitive Shoppers,4
+C101694,24,1,26160.3,11,Potential Loyalists,1
+C101695,118,1,65436.95,12,High-Value Loyal Customers,0
+C101696,343,1,73989.8,9,At-Risk Customers,2
+C101697,181,1,101187.4,11,High-Value Loyal Customers,0
+C101698,183,1,140740.2,12,High-Value Loyal Customers,0
+C101699,95,1,176180.4,13,Price-Sensitive Shoppers,4
+C101700,211,1,29934.45,9,New Buyers,3
+C101701,247,1,178053.0,11,Price-Sensitive Shoppers,4
+C101702,281,1,13758.4,8,New Buyers,3
+C101703,283,1,24672.0,8,New Buyers,3
+C101704,93,1,57316.0,11,Potential Loyalists,1
+C101705,208,1,55776.0,10,New Buyers,3
+C101706,110,1,182620.4,14,Price-Sensitive Shoppers,4
+C101707,235,1,261298.5,12,Price-Sensitive Shoppers,4
+C101708,25,1,45771.0,12,Potential Loyalists,1
+C101709,183,1,6861.6,9,New Buyers,3
+C101710,155,1,18492.0,9,Potential Loyalists,1
+C101711,113,1,136268.6,13,Potential Loyalists,1
+C101712,160,1,52767.15,10,Potential Loyalists,1
+C101713,360,1,43545.6,8,At-Risk Customers,2
+C101714,46,1,95924.0,13,Potential Loyalists,1
+C101715,115,1,80392.0,12,High-Value Loyal Customers,0
+C101716,266,1,55389.6,9,High-Value Loyal Customers,0
+C101717,195,1,185475.0,13,Price-Sensitive Shoppers,4
+C101718,83,1,112347.0,12,High-Value Loyal Customers,0
+C101719,102,1,110322.0,12,High-Value Loyal Customers,0
+C101720,172,1,19247.4,9,New Buyers,3
+C101721,110,1,73005.0,12,High-Value Loyal Customers,0
+C101722,95,1,83376.75,12,Potential Loyalists,1
+C101723,196,1,168515.1,12,Price-Sensitive Shoppers,4
+C101724,60,1,210840.0,15,Price-Sensitive Shoppers,4
+C101725,316,1,316735.0,11,Price-Sensitive Shoppers,4
+C101726,344,1,39687.0,8,New Buyers,3
+C101727,230,1,270446.0,12,Price-Sensitive Shoppers,4
+C101728,317,1,164372.4,10,At-Risk Customers,2
+C101729,260,1,244245.0,12,Price-Sensitive Shoppers,4
+C101730,299,1,329631.0,11,Price-Sensitive Shoppers,4
+C101731,60,1,16584.0,11,Potential Loyalists,1
+C101732,263,1,61741.45,9,High-Value Loyal Customers,0
+C101733,108,1,154252.0,13,Potential Loyalists,1
+C101734,14,1,145122.0,14,Potential Loyalists,1
+C101735,331,1,33777.3,8,New Buyers,3
+C101736,89,1,359579.75,14,Price-Sensitive Shoppers,4
+C101737,243,1,110453.25,10,At-Risk Customers,2
+C101738,40,1,57866.4,12,Potential Loyalists,1
+C101739,34,1,3958.4,11,Potential Loyalists,1
+C101740,272,1,74788.0,10,At-Risk Customers,2
+C101741,198,1,213315.2,13,Price-Sensitive Shoppers,4
+C101742,206,1,27752.4,9,New Buyers,3
+C101743,301,1,73438.0,9,New Buyers,3
+C101744,228,1,47373.9,9,New Buyers,3
+C101745,249,1,97680.0,10,High-Value Loyal Customers,0
+C101746,129,1,19148.0,10,Potential Loyalists,1
+C101747,236,1,220191.0,12,Price-Sensitive Shoppers,4
+C101748,318,1,15808.5,7,New Buyers,3
+C101749,284,1,69430.4,10,New Buyers,3
+C101750,32,1,76345.0,13,Potential Loyalists,1
+C101751,268,1,23803.0,8,New Buyers,3
+C101752,26,1,239407.6,15,Price-Sensitive Shoppers,4
+C101753,325,1,8644.5,7,New Buyers,3
+C101754,252,1,67433.4,10,High-Value Loyal Customers,0
+C101755,171,1,13389.3,9,New Buyers,3
+C101756,181,1,18864.0,9,New Buyers,3
+C101757,17,1,12137.2,11,Potential Loyalists,1
+C101758,180,1,113287.2,12,High-Value Loyal Customers,0
+C101759,236,1,138312.0,11,High-Value Loyal Customers,0
+C101760,33,1,63061.95,12,High-Value Loyal Customers,0
+C101761,106,1,48704.4,11,Potential Loyalists,1
+C101762,196,1,48120.2,10,High-Value Loyal Customers,0
+C101763,284,1,113964.6,11,At-Risk Customers,2
+C101764,355,1,120171.2,10,High-Value Loyal Customers,0
+C101765,233,1,5739.0,8,New Buyers,3
+C101766,193,1,133165.25,12,At-Risk Customers,2
+C101767,212,1,118600.8,12,High-Value Loyal Customers,0
+C101768,200,1,137563.2,12,At-Risk Customers,2
+C101769,114,1,170003.2,13,Price-Sensitive Shoppers,4
+C101770,192,1,109206.3,11,High-Value Loyal Customers,0
+C101771,343,1,22480.8,7,New Buyers,3
+C101772,302,1,30415.5,7,At-Risk Customers,2
+C101773,306,1,8040.0,7,At-Risk Customers,2
+C101774,247,1,179737.2,11,Price-Sensitive Shoppers,4
+C101775,62,1,36257.0,12,High-Value Loyal Customers,0
+C101776,171,1,21572.1,9,New Buyers,3
+C101777,176,1,65835.0,11,At-Risk Customers,2
+C101778,222,1,80965.0,10,At-Risk Customers,2
+C101779,225,1,77832.0,10,At-Risk Customers,2
+C101780,124,1,219708.0,14,Price-Sensitive Shoppers,4
+C101781,273,1,63255.6,9,High-Value Loyal Customers,0
+C101782,157,1,114132.0,12,At-Risk Customers,2
+C101783,184,1,160290.0,12,Price-Sensitive Shoppers,4
+C101784,66,1,23681.0,11,Potential Loyalists,1
+C101785,103,1,30418.2,10,High-Value Loyal Customers,0
+C101786,25,1,159447.0,14,High-Value Loyal Customers,0
+C101787,60,1,156744.0,14,High-Value Loyal Customers,0
+C101788,299,1,48417.7,8,New Buyers,3
+C101789,131,1,77140.0,12,Potential Loyalists,1
+C101790,141,1,111859.2,12,High-Value Loyal Customers,0
+C101791,27,1,114324.9,14,High-Value Loyal Customers,0
+C101792,308,1,111086.5,9,At-Risk Customers,2
+C101793,206,1,114012.0,12,At-Risk Customers,2
+C101794,220,1,299848.5,12,Price-Sensitive Shoppers,4
+C101795,27,1,5925.15,11,Potential Loyalists,1
+C101796,179,1,33559.2,10,New Buyers,3
+C101797,231,1,92817.0,10,At-Risk Customers,2
+C101798,27,1,107838.0,13,High-Value Loyal Customers,0
+C101799,112,1,4676.85,10,Potential Loyalists,1
+C101800,361,1,30525.4,7,At-Risk Customers,2
+C101801,346,1,15890.0,7,New Buyers,3
+C101802,99,1,293108.0,14,Price-Sensitive Shoppers,4
+C101803,215,1,160065.0,12,At-Risk Customers,2
+C101804,38,1,18357.8,11,Potential Loyalists,1
+C101805,135,1,96301.6,12,Potential Loyalists,1
+C101806,235,1,299411.5,12,Price-Sensitive Shoppers,4
+C101807,307,1,108902.3,9,High-Value Loyal Customers,0
+C101808,288,1,160872.0,11,At-Risk Customers,2
+C101809,288,1,139854.75,11,At-Risk Customers,2
+C101810,70,1,165329.1,14,High-Value Loyal Customers,0
+C101811,246,1,64085.1,10,High-Value Loyal Customers,0
+C101812,308,1,672.0,7,New Buyers,3
+C101813,300,1,107385.6,9,High-Value Loyal Customers,0
+C101814,45,1,210002.4,15,Price-Sensitive Shoppers,4
+C101815,317,1,195912.0,11,Price-Sensitive Shoppers,4
+C101816,31,1,12939.0,11,Potential Loyalists,1
+C101817,236,1,44588.25,9,New Buyers,3
+C101818,95,1,63482.0,11,Potential Loyalists,1
+C101819,205,1,94523.4,11,High-Value Loyal Customers,0
+C101820,211,1,91686.4,11,High-Value Loyal Customers,0
+C101821,30,1,33411.0,12,Potential Loyalists,1
+C101822,160,1,68922.5,11,High-Value Loyal Customers,0
+C101823,57,1,135458.4,14,High-Value Loyal Customers,0
+C101824,86,1,133336.8,13,Potential Loyalists,1
+C101825,35,1,124475.0,14,Potential Loyalists,1
+C101826,107,1,17006.9,10,New Buyers,3
+C101827,342,1,64578.75,9,High-Value Loyal Customers,0
+C101828,54,1,196524.8,15,Price-Sensitive Shoppers,4
+C101829,150,1,167157.6,12,High-Value Loyal Customers,0
+C101830,351,1,113263.35,10,At-Risk Customers,2
+C101831,139,1,33028.8,11,Potential Loyalists,1
+C101832,41,1,15658.0,11,Potential Loyalists,1
+C101833,251,1,276929.75,12,Price-Sensitive Shoppers,4
+C101834,252,1,121023.0,11,At-Risk Customers,2
+C101835,358,1,141113.0,10,High-Value Loyal Customers,0
+C101836,212,1,248814.5,13,Price-Sensitive Shoppers,4
+C101837,274,1,13364.0,8,New Buyers,3
+C101838,323,1,135809.6,10,At-Risk Customers,2
+C101839,357,1,55032.0,8,At-Risk Customers,2
+C101840,288,1,107418.0,10,At-Risk Customers,2
+C101841,178,1,187675.0,13,Price-Sensitive Shoppers,4
+C101842,311,1,257507.5,11,Price-Sensitive Shoppers,4
+C101843,148,1,35769.6,10,Potential Loyalists,1
+C101844,238,1,27285.0,8,At-Risk Customers,2
+C101845,139,1,79349.4,12,High-Value Loyal Customers,0
+C101846,251,1,142664.85,11,High-Value Loyal Customers,0
+C101847,2,1,214195.75,15,Price-Sensitive Shoppers,4
+C101848,18,1,186615.9,15,Price-Sensitive Shoppers,4
+C101849,259,1,165282.9,11,Price-Sensitive Shoppers,4
+C101850,72,1,3931.1,11,Potential Loyalists,1
+C101851,124,1,13990.15,10,New Buyers,3
+C101852,251,1,295450.0,12,Price-Sensitive Shoppers,4
+C101853,288,1,37875.6,9,At-Risk Customers,2
+C101854,205,1,49056.1,10,New Buyers,3
+C101855,237,1,32840.0,9,At-Risk Customers,2
+C101856,75,1,199950.6,15,Price-Sensitive Shoppers,4
+C101857,254,1,20169.0,8,At-Risk Customers,2
+C101858,46,1,61987.1,12,High-Value Loyal Customers,0
+C101859,135,1,52968.2,11,High-Value Loyal Customers,0
+C101860,80,1,22782.6,10,Potential Loyalists,1
+C101861,91,1,160226.4,13,High-Value Loyal Customers,0
+C101862,73,1,52137.6,12,Potential Loyalists,1
+C101863,177,1,270545.75,13,Price-Sensitive Shoppers,4
+C101864,279,1,110224.6,10,High-Value Loyal Customers,0
+C101865,86,1,8463.45,10,Potential Loyalists,1
+C101866,350,1,239571.0,11,Price-Sensitive Shoppers,4
+C101867,244,1,283900.5,12,Price-Sensitive Shoppers,4
+C101868,134,1,314716.0,14,Price-Sensitive Shoppers,4
+C101869,342,1,4286.55,7,New Buyers,3
+C101870,20,1,52637.6,12,High-Value Loyal Customers,0
+C101871,56,1,23554.4,11,Potential Loyalists,1
+C101872,124,1,90234.3,12,High-Value Loyal Customers,0
+C101873,199,1,273104.0,13,Price-Sensitive Shoppers,4
+C101874,122,1,34525.0,11,Potential Loyalists,1
+C101875,268,1,78113.3,10,High-Value Loyal Customers,0
+C101876,126,1,60379.2,11,High-Value Loyal Customers,0
+C101877,311,1,82004.4,9,At-Risk Customers,2
+C101878,111,1,12630.4,10,Potential Loyalists,1
+C101879,297,1,213974.75,11,Price-Sensitive Shoppers,4
+C101880,242,1,64422.0,10,High-Value Loyal Customers,0
+C101881,179,1,85508.0,11,At-Risk Customers,2
+C101882,180,1,40261.0,10,At-Risk Customers,2
+C101883,268,1,158636.0,11,High-Value Loyal Customers,0
+C101884,176,1,249736.0,13,Price-Sensitive Shoppers,4
+C101885,205,1,17320.5,9,At-Risk Customers,2
+C101886,170,1,132750.0,12,High-Value Loyal Customers,0
+C101887,250,1,72042.0,10,At-Risk Customers,2
+C101888,13,1,282628.0,15,Price-Sensitive Shoppers,4
+C101889,352,1,300404.0,11,Price-Sensitive Shoppers,4
+C101890,95,1,201128.0,14,Price-Sensitive Shoppers,4
+C101891,167,1,16655.4,9,New Buyers,3
+C101892,160,1,15300.0,9,Potential Loyalists,1
+C101893,263,1,26395.2,8,New Buyers,3
+C101894,91,1,72868.0,12,High-Value Loyal Customers,0
+C101895,347,1,258824.0,11,Price-Sensitive Shoppers,4
+C101896,59,1,208467.2,15,Price-Sensitive Shoppers,4
+C101897,133,1,197523.0,14,Price-Sensitive Shoppers,4
+C101898,139,1,141196.5,13,At-Risk Customers,2
+C101899,362,1,331526.25,11,Price-Sensitive Shoppers,4
+C101900,335,1,15475.95,7,New Buyers,3
+C101901,242,1,24468.0,8,At-Risk Customers,2
+C101902,321,1,118893.0,10,At-Risk Customers,2
+C101903,239,1,342323.0,12,Price-Sensitive Shoppers,4
+C101904,2,1,37148.4,12,Potential Loyalists,1
+C101905,151,1,229040.25,13,Price-Sensitive Shoppers,4
+C101906,221,1,143960.0,11,At-Risk Customers,2
+C101907,193,1,299132.0,13,Price-Sensitive Shoppers,4
+C101908,37,1,64746.0,13,Potential Loyalists,1
+C101909,48,1,26010.85,11,Potential Loyalists,1
+C101910,108,1,10758.4,10,Potential Loyalists,1
+C101911,339,1,290236.0,11,Price-Sensitive Shoppers,4
+C101912,139,1,49474.8,11,Potential Loyalists,1
+C101913,297,1,86074.75,9,At-Risk Customers,2
+C101914,296,1,136841.8,10,High-Value Loyal Customers,0
+C101915,72,1,64821.0,13,Potential Loyalists,1
+C101916,285,1,6454.8,8,New Buyers,3
+C101917,283,1,27522.15,8,New Buyers,3
+C101918,304,1,255735.0,11,Price-Sensitive Shoppers,4
+C101919,51,1,296876.0,15,Price-Sensitive Shoppers,4
+C101920,216,1,32892.3,10,New Buyers,3
+C101921,223,1,22184.0,8,At-Risk Customers,2
+C101922,130,1,101223.0,12,Potential Loyalists,1
+C101923,262,1,140130.0,11,At-Risk Customers,2
+C101924,336,1,125052.0,10,At-Risk Customers,2
+C101925,150,1,6712.45,9,New Buyers,3
+C101926,245,1,39511.2,9,New Buyers,3
+C101927,235,1,9313.0,8,New Buyers,3
+C101928,89,1,7502.95,10,Potential Loyalists,1
+C101929,362,1,178816.0,10,At-Risk Customers,2
+C101930,22,1,33144.0,12,Potential Loyalists,1
+C101931,141,1,51419.7,11,High-Value Loyal Customers,0
+C101932,30,1,158010.0,14,High-Value Loyal Customers,0
+C101933,294,1,101102.0,9,High-Value Loyal Customers,0
+C101934,277,1,124355.0,11,At-Risk Customers,2
+C101935,58,1,184658.4,15,Price-Sensitive Shoppers,4
+C101936,122,1,127094.0,13,High-Value Loyal Customers,0
+C101937,92,1,40712.0,11,High-Value Loyal Customers,0
+C101938,140,1,31472.0,10,Potential Loyalists,1
+C101939,22,1,13322.4,11,Potential Loyalists,1
+C101940,108,1,37575.0,11,Potential Loyalists,1
+C101941,89,1,128377.8,13,High-Value Loyal Customers,0
+C101942,205,1,99037.5,11,High-Value Loyal Customers,0
+C101943,292,1,46078.8,8,New Buyers,3
+C101944,210,1,88777.6,11,At-Risk Customers,2
+C101945,265,1,72216.0,10,At-Risk Customers,2
+C101946,257,1,74508.0,10,New Buyers,3
+C101947,42,1,59155.2,12,High-Value Loyal Customers,0
+C101948,3,1,28665.6,11,Potential Loyalists,1
+C101949,216,1,174704.0,12,Price-Sensitive Shoppers,4
+C101950,311,1,263696.0,11,Price-Sensitive Shoppers,4
+C101951,93,1,53701.6,11,High-Value Loyal Customers,0
+C101952,151,1,161420.1,12,High-Value Loyal Customers,0
+C101953,342,1,50752.8,8,At-Risk Customers,2
+C101954,281,1,38331.0,9,At-Risk Customers,2
+C101955,344,1,77184.0,9,New Buyers,3
+C101956,317,1,103143.25,9,At-Risk Customers,2
+C101957,248,1,87714.0,10,At-Risk Customers,2
+C101958,30,1,121298.85,14,Potential Loyalists,1
+C101959,51,1,131059.8,14,High-Value Loyal Customers,0
+C101960,242,1,66271.2,10,At-Risk Customers,2
+C101961,155,1,43365.3,10,Potential Loyalists,1
+C101962,98,1,60435.0,11,Potential Loyalists,1
+C101963,128,1,62923.8,11,High-Value Loyal Customers,0
+C101964,50,1,56761.2,12,Potential Loyalists,1
+C101965,19,1,226920.0,15,Price-Sensitive Shoppers,4
+C101966,238,1,106823.75,10,At-Risk Customers,2
+C101967,8,1,205038.0,15,Price-Sensitive Shoppers,4
+C101968,49,1,128422.4,14,Potential Loyalists,1
+C101969,152,1,127461.75,12,At-Risk Customers,2
+C101970,130,1,283115.0,14,Price-Sensitive Shoppers,4
+C101971,11,1,66813.4,13,High-Value Loyal Customers,0
+C101972,262,1,50239.2,9,High-Value Loyal Customers,0
+C101973,283,1,146908.0,11,High-Value Loyal Customers,0
+C101974,244,1,317025.0,12,Price-Sensitive Shoppers,4
+C101975,119,1,30544.2,10,High-Value Loyal Customers,0
+C101976,197,1,208613.8,13,Price-Sensitive Shoppers,4
+C101977,234,1,118020.4,11,High-Value Loyal Customers,0
+C101978,207,1,11098.0,9,New Buyers,3
+C101979,13,1,26267.4,11,Potential Loyalists,1
+C101980,58,1,43291.35,12,Potential Loyalists,1
+C101981,147,1,208759.5,13,Price-Sensitive Shoppers,4
+C101982,148,1,21859.2,9,New Buyers,3
+C101983,360,1,95780.0,9,At-Risk Customers,2
+C101984,155,1,247128.0,13,Price-Sensitive Shoppers,4
+C101985,308,1,154696.6,10,At-Risk Customers,2
+C101986,130,1,190403.4,14,Price-Sensitive Shoppers,4
+C101987,339,1,54000.0,8,New Buyers,3
+C101988,352,1,51371.25,8,New Buyers,3
+C101989,248,1,114548.4,11,High-Value Loyal Customers,0
+C101990,278,1,59751.0,9,High-Value Loyal Customers,0
+C101991,170,1,23203.8,9,New Buyers,3
+C101992,209,1,94244.0,11,At-Risk Customers,2
+C101993,267,1,63414.0,9,At-Risk Customers,2
+C101994,84,1,218804.0,14,Price-Sensitive Shoppers,4
+C101995,300,1,162993.4,10,At-Risk Customers,2
+C101996,328,1,50333.4,8,New Buyers,3
+C101997,297,1,158461.25,10,At-Risk Customers,2
+C101998,142,1,16626.9,10,Potential Loyalists,1
+C101999,287,1,251598.0,12,Price-Sensitive Shoppers,4
